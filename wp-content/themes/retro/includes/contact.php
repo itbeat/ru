@@ -28,17 +28,11 @@ if ( ! $form_contents_name || ! is_email( $form_contents_email ) || ! $form_cont
 
 /*********************/
 /*   Email content   */
-$email_content = __("This email was sent through your website's contact form. You can reply to this email.", 'haku');
-$email_content .= "\n";
-$email_content .= '- - - - - - - - - - - - - -';
-$email_content .= "\n\n";
-$email_content .= __('Sent by:', 'haku') . ' &NAME ( &EMAIL )';
+$email_content = __('Sent by:', 'haku') . ' &NAME ( &EMAIL )';
 
 if ( $form_contents_subject ) {
 	$email_content .= "\n\n";
-	$email_content .= __('Subject:', 'haku');
-	$email_content .= "\n\n";
-	$email_content .= '&SUBJECT';
+	$email_content .= __('Subject:', 'haku') . ' &SUBJECT';
 }
 
 $email_content .= "\n\n";
@@ -60,11 +54,11 @@ $sender = ( get_theme_option('contact_form_sender') ? get_theme_option('contact_
 
 /********************/
 /*   Mail subject   */
-$subject = get_bloginfo('name') . ' // ';
-$subject .= __('Message from:', 'haku') . ' ' . $form_contents_email;
 
 if ( $form_contents_subject ) {
-	$subject .= ' // ' . __('Subject:', 'haku') . ' ' . haku_shorten( $form_contents_subject, 5, '...' );
+	$subject = haku_shorten( $form_contents_subject, 5, '...' );
+} else {
+        $subject = haku_shorten( $form_contents_message, 5, '...' );
 }
 
 /***************/

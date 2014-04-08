@@ -1,0 +1,1453 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+
+#. Text in function
+#: Retro copy/loop.php:15 copy/content-single.php:19
+#: copy/includes/widget/latests.php:149
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/helper.php:1
+msgid "%s ago"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/actions.php:524
+msgid "%s&rsquo;s Sidebar"
+msgstr ""
+
+#. Text in function
+#: Retro copy/search.php:37 copy/archive.php:65 copy/section-blog.php:79
+msgid "&larr; Older posts"
+msgstr "&larr; старые"
+
+#. Text in function
+#: Retro copy/functions.php:298
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: Retro copy/loop.php:15 copy/content-single.php:19
+#: copy/includes/widget/latests.php:149
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/update.php:96
+msgid "A new version of %s has just become available!"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/loop.php:13 copy/content-single.php:17
+msgid "AUTHOR:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:708
+msgid "About"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:155
+msgid "Adapt Url"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Add New Filter"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:3020
+msgid "Add New Sidebar"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:3005
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Add or remove filters"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2027
+msgid "Address Line"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:233
+msgid "Analytics"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:21
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:576
+msgid "Arrows"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1708 copy/haku/panel/options.php:1925
+#: copy/includes/widget/latests.php:98
+msgid "Ascending"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/update.php:94
+msgid "Available"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:278
+msgid "Banner"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/update.php:105
+msgid ""
+"Before updating, I recommend you to perform a quick backup of your current "
+"version of %s (%s). There&rsquo;s no risk that something might corrupt your "
+"database, but you might lose any eventual change you made on the theme "
+"itself."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1779
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: Retro copy/archive.php:40
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2681
+msgid "Body"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:465
+msgid "Box Columns"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:418
+msgid "Box Rain"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:420
+msgid "Box Rain Grow"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:421
+msgid "Box Rain Grow Reverse"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:419
+msgid "Box Rain Reverse"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:417
+msgid "Box Random"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:493
+msgid "Box Rows"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:16
+msgid "Brand"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Browse"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/loop.php:13 copy/content-single.php:17
+msgid "CATEGORY:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2766
+msgid "CSS Code"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/actions.php:149
+msgid "Caption"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2966
+msgid "Check for updates"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:2981
+msgid ""
+"Check this if you want to be notified when a new update for %s is available."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2851
+msgid "Check this to enable comments and trackbacks on pages."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1743
+msgid "Check this to enable the Portfolio Filtering."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1957
+msgid "Check this to enable the Previous/Next pagination."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2881
+msgid "Check this to enable trackbacks."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:197
+msgid ""
+"Check this to make the Menu stick to the top of the page and be always "
+"visible."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2166
+msgid "Check this to show the Contact Form."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:350
+msgid "Check this to show the Slider."
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:2811
+msgid "Choose a category"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Choose from the most used filters"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2541
+msgid ""
+"Choose your custom icon image, then click \"Insert into post\" to apply it."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:802 copy/haku/panel/options.php:2911
+#: copy/haku/panel/actions.php:130
+msgid "Choose your image, then click \"Insert into post\" to apply it."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:836
+msgid "Column 1"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1000
+msgid "Column 2"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1164
+msgid "Column 3"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1328
+msgid "Column 4"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1969
+msgid "Contact"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2142
+msgid "Contact Form"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1501
+msgid "Content"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/metabox/format_standard.php:10
+msgid "Content Url"
+msgstr ""
+
+#. Text in function
+#: Retro copy/loop.php:24
+msgid "Continue reading"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:33
+msgid "Control Panel"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2424
+msgid "Custom #1"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2469
+msgid "Custom #2"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2514
+msgid "Custom #3"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1492
+msgid "Custom Content"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:3014
+msgid "Custom Sidebars"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1681 copy/haku/panel/options.php:1898
+#: copy/includes/widget/latests.php:88
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1709 copy/haku/panel/options.php:1926
+#: copy/includes/widget/latests.php:99
+msgid "Descending"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/actions.php:173
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2757
+msgid "Direct Styling"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2151
+msgid "Display Contact Form"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:335
+msgid "Display Slider"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/metabox/item_sidebar.php:10
+msgid "Display:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:47
+msgid "Documentation"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2075
+msgid "E-Mail Line"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:323
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Edit Filter"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2802
+msgid "Exclude"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2793
+msgid "Exclude Categories"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2790
+msgid "Extras"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51
+msgid ""
+"FILL THE FIELDS TO LEAVE A REPLY. Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2352
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:414
+msgid "Fade"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:55
+msgid "Favourites Icon"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Filter Tag"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/config.php:1
+msgid "Filter by:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1719 copy/haku/panel/options.php:1728
+msgid "Filtering"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2280 copy/includes/widget/flickr.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:413
+msgid "Fold"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2595
+msgid "Font"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2690
+msgid "Font Family"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2735
+msgid "Font Size"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:10 copy/haku/panel/options.php:1972
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/widget/maps.php:1
+msgid "Google Maps"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/update.php:96
+msgid ""
+"Head over %s, login into your account, switch to the \"Downloads\" section "
+"and re-download %s, just like you did the first time."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2586
+msgid "Headings"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1364
+msgid "Headline"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:266
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2999
+msgid "Home Slides"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/update.php:108
+msgid "How to update?"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:101
+msgid "Hybrid"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/update.php:113
+msgid "I still need help."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1412
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/update.php:114
+msgid ""
+"If you still need help, don&rsquo;t hesitate to contact me through my "
+"ThemeForest.net %s Contact Form."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:269 copy/haku/panel/options.php:1837
+msgid "Intro"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:790
+msgid "Intro Picture"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1629
+msgid "Items Number"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:12
+msgid "Javascript is required."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1981
+msgid "Label"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2656
+msgid "Label Font Size"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/flickr.php:92
+msgid "Latest"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/widget/latests.php:1
+msgid "Latest Articles"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:129
+msgid "Linear"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/actions.php:199
+msgid "Link"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2304
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:78
+msgid "Location:"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2899
+msgid "Login Logo"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:25
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:96
+msgid "Map type:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2911
+msgid "Max width:"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/metabox.php:1
+msgid "Media"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2625
+msgid "Menu Font Size"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/contact.php:1
+msgid "Message content:"
+msgstr "Вопрос:"
+
+#. Text in function
+#: Retro copy/includes/contact.php:1
+msgid "Message from:"
+msgstr "Сообщение от:"
+
+#. Text in function
+#: Retro copy/includes/contact.php:1 copy/haku/config.php:1
+msgid "Message sent! Thank you!"
+msgstr "Сообщение отправлено! Спасибо!"
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2923
+msgid "Mobile"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/actions.php:227
+msgid "More Button"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Most Used Filters"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/widget/video.php:1
+msgid "Moving Pictures!"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2256
+msgid "MySpace"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:79
+msgid "Navigation"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:41
+msgid "Newer comments"
+msgstr ""
+
+#. Text in function
+#: Retro copy/search.php:32 copy/archive.php:60 copy/section-blog.php:74
+msgid "Newer posts &rarr;"
+msgstr "новые &rarr;"
+
+#. Text in function
+#: Retro copy/loop.php:15 copy/content-single.php:19
+#: copy/includes/widget/latests.php:149
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1652
+msgid "No item has been added."
+msgstr ""
+
+#. Text in function
+#: Retro copy/not-found.php:1
+msgid "Not found"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2562
+msgid "Note Text"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/flickr.php:83
+#: copy/includes/widget/latests.php:78
+msgid "Number:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/metabox/format_standard.php:43
+msgid "Open In New Tab"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2908 copy/haku/panel/actions.php:127
+msgid "Open Media Library"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2641 copy/haku/panel/options.php:2672
+msgid "Optimal Size:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1915
+msgid "Order"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1886
+msgid "Order by"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/latests.php:84
+msgid "Order by:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/flickr.php:89
+#: copy/includes/widget/latests.php:96
+msgid "Order:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2836
+msgid "Page Comments"
+msgstr ""
+
+#. Text in function
+#: Retro copy/page.php:27
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1877 copy/haku/panel/options.php:1942
+msgid "Pagination"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:549
+msgid "Pause On Hover"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:521
+msgid "Pause Time"
+msgstr ""
+
+#. Text in function
+#: Retro copy/post-audio.php:8 copy/loop.php:8
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/widget/latests.php:146
+msgid "Permanent Link to %s"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2051
+msgid "Phone Line"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/actions.php:118
+msgid "Picture"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/contact.php:1
+msgid "Please, fill all required fields correctly."
+msgstr "Пожалуйста, заполните корректно все требуемые поля."
+
+#. Text in echo
+#: Retro copy/section-contact.php:90
+msgid "Please, insert your e-mail address."
+msgstr "Пожалуйста, введите Ваш e-mail адрес."
+
+#. Text in echo
+#: Retro copy/section-contact.php:93
+msgid "Please, leave a message."
+msgstr "Пожалуйста, задайте в сообщении интересующие Вас вопросы."
+
+#. Text in echo
+#: Retro copy/section-contact.php:87
+msgid "Please, write your name."
+msgstr "Пожалуйста, укажите Ваше имя."
+
+#. Text in echo
+#: Retro copy/includes/widget/latests.php:90
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1522 copy/functions.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Portfolio Items"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51
+msgid "Post Comment!"
+msgstr ""
+
+#. Text in function
+#: Retro copy/archive.php:32
+msgid "Posts by %s"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/update.php:114
+msgid "Profile Page"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2553
+msgid "RSS Footer"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:406 copy/haku/panel/options.php:1682
+#: copy/haku/panel/options.php:1899 copy/includes/widget/flickr.php:91
+#: copy/includes/widget/latests.php:89
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:603
+msgid "Randomise"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/widget/latests.php:1
+msgid "Recent Articles"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:297
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:24
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:51
+msgid "Reset Options"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2827
+msgid "Responses"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:308
+msgid "Ribbon Text"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:98
+msgid "Roadmap"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:99
+msgid "Satellite"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:36
+msgid "Save Settings"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:119
+msgid "Scrolling Easing"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:88
+msgid "Scrolling Speed"
+msgstr ""
+
+#. Text in function
+#: Retro copy/searchform.php:4
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Search Filters"
+msgstr ""
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Search Items"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/panel.php:39
+msgid "Search Settings"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2181
+msgid "Send Mail To"
+msgstr ""
+
+#. Text in function
+#: Retro copy/section-contact.php:82
+msgid "Send!"
+msgstr "Отправить!"
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2205
+msgid "Sender"
+msgstr ""
+
+#. Text in function
+#: Retro copy/section-contact.php:82
+msgid "Sending.."
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/contact.php:1
+msgid "Sent by:"
+msgstr "Отправитель:"
+
+#. Text in function
+#: Retro copy/section-contact.php:82
+msgid "Sent!"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1337
+msgid "Show Column"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2099
+msgid "Show Icons"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:618
+msgid "Show a random slide on start."
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:40
+msgid "Show more"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/metabox.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/actions.php:524
+msgid "Sidebar generated by %s for \"%s\" using %s!"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:3011
+msgid "Sidebars"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/video.php:79 copy/includes/widget/maps.php:90
+msgid "Size:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:407
+msgid "Slice Down"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:408
+msgid "Slice Down-Left"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:409
+msgid "Slice Up"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:411
+msgid "Slice Up-Down"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:412
+msgid "Slice Up-Down-Left"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:410
+msgid "Slice Up-Left"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:437 copy/haku/panel/options.php:447
+msgid "Slices"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:416
+msgid "Slide-In Left"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:415
+msgid "Slide-In Right"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:326
+msgid "Slider"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2996
+msgid "Slides"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2247
+msgid "Social Networks"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/config.php:1
+msgid "Sorry, there was an unxpected error - try again. \\n\\nError code: %s"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/not-found.php:3
+msgid "Sorry, we couldn&rsquo;t find who you were looking for."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:182
+msgid "Sticky Menu"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2583
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: Retro copy/section-contact.php:72
+msgid "Subject"
+msgstr "Тема"
+
+#. Text in function
+#: Retro copy/includes/contact.php:1
+msgid "Subject:"
+msgstr "Тема:"
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1388
+msgid "Subline"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2229
+msgid "Success Message"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:100
+msgid "Terrain"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:254
+msgid "The Tracking Code of your favorite Analytics Web Service."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2948
+msgid "The initial view size on mobile devices. (Experimental)"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1647
+msgid "The number of items to display."
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:2818
+msgid ""
+"The selected categories will be excluded from every single section of your "
+"awesome website (%s)."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:104
+msgid "The transition speed between sections."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:381
+msgid "The transition speed between slides."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2133
+msgid "The width of the section\\'s intro."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2012
+msgid "The width of the section\\'s label."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2957
+msgid "Theme Updates"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/update.php:104
+msgid "Things you should know"
+msgstr ""
+
+#. Text in function
+#: Retro copy/includes/contact.php:1
+msgid ""
+"This email was sent through your website's contact form. You can reply to "
+"this email."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:1680 copy/haku/panel/options.php:1897
+#: copy/includes/widget/latests.php:87
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/flickr.php:68 copy/includes/widget/video.php:67
+#: copy/includes/widget/maps.php:72 copy/includes/widget/latests.php:72
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/helper.php:1
+msgid "Today"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:212
+msgid "Top Buttons"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2866
+msgid "Trackbacks"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:242
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:396
+msgid "Transition Effect"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:365
+msgid "Transition Speed"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2400
+msgid "Tumblr"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2328
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51
+msgid "Type your comment here.."
+msgstr ""
+
+#. Text in function
+#: Retro copy/section-contact.php:79
+msgid "Type your message here.."
+msgstr "Ваши вопросы*"
+
+#. Text in function
+#: Retro copy/functions.php:1
+msgid "Update Filter"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/update.php:109
+msgid ""
+"Updating a theme is pretty much like installing it. Download it, extract "
+"the .zip package, find the theme folder (do not upload the entire package!). "
+"Now, if you have no idea of what a FTP connection is, simply delete the "
+"current version of %s and upload the new one. Otherwise, connect to your "
+"server, navigate to the WordPress themes folder and replace the whole theme "
+"folder."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/video.php:73
+msgid "Url:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:633
+msgid "Use Captions"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/flickr.php:74
+msgid "User ID:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/panel.php:80
+msgid "Version"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2932
+msgid "Viewport"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2376
+msgid "Vimeo"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/config.php:1
+msgid "We\\'ll reply as soon as possible."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:654
+msgid "Welcome Text"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/update.php:121
+msgid "What&rsquo;s changed?"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2890
+msgid "WordPress"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/helper.php:1
+msgid "Yesterday"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/metabox/format_standard.php:24
+msgid "You can enter a Youtube, Vimeo, Audio (.mp3), Image or Website url."
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/flickr.php:79
+msgid "You can get your Flickr ID on:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/panel/options.php:2778
+msgid ""
+"You can paste here any CSS code and it will be automatically applied to the "
+"theme."
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51 copy/section-contact.php:66
+msgid "Your Name*"
+msgstr "Ваше имя*"
+
+#. Text in function
+#: Retro copy/comments.php:51
+msgid "Your Website"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/functions.php:301
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: Retro copy/comments.php:51 copy/section-contact.php:69
+msgid "Your e-mail address*"
+msgstr "Ваш e-mail адрес*"
+
+#. Text in echo
+#: Retro copy/haku/update.php:106
+msgid "Your theme path:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/haku/update.php:111
+msgid "Your themes path:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/includes/widget/maps.php:84
+msgid "Zoom:"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/section-portfolio.php:70
+msgid "all"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/functions.php:297
+msgid "at"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:475
+msgid "columns"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:1641
+msgid "items"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:98 copy/haku/panel/options.php:375
+#: copy/haku/panel/options.php:531
+msgid "milliseconds"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:745 copy/haku/panel/options.php:821
+#: copy/haku/panel/options.php:1559 copy/haku/panel/options.php:1605
+#: copy/haku/panel/options.php:1816 copy/haku/panel/options.php:1862
+#: copy/haku/panel/options.php:2006 copy/haku/panel/options.php:2127
+msgid "pixels"
+msgstr ""
+
+#. Text in function
+#: Retro copy/haku/panel/options.php:503
+msgid "rows"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/comments.php:11
+msgid "to"
+msgstr ""
+
+#. Text in echo
+#: Retro copy/functions.php:297
+msgid "wrote on"
+msgstr ""
