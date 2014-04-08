@@ -1,0 +1,324 @@
+/*****************/
+/*   Changelog   */
+
+Remember: To easily update your theme, you can simply replace the whole
+theme folder if you didn't modify any of the theme's files (or in this
+case you'll have to re-apply the changes on the single files).
+You'll not lose any setting, content, slide or custom sidebar.
+Also, if new options have been added in the newer version, remember to
+re-save your options or do a reset if possible.
+
+22 August 2013, 3.7:
+	Adjustment: Better Blog pagination.
+	
+	@ style.css
+	@ js/retro.js
+
+25 July 2013, 3.6:
+	Adjustment: Formatting and code improvements.
+	
+	@ style.css
+	@ content-single.php
+	@ includes/widget/latests.php
+	@ loop.php
+	@ page.php
+	@ post-quote.php
+	@ single.php
+	@ user.php
+
+21 June 2013, 3.5:
+	Adjustment: Minor fixes.
+	
+	@ style.css
+	@ functions.php
+
+15 June 2013, 3.4:
+	Adjustment: Retirement of built-in Twitter Widget.
+	Adjustment: Countless code improvements and minor fixes.
+	
+	@ style.css
+	@ languages/default.po
+	@ functions.php
+	@ content-single.php
+	@ loop-portfolio.php
+	- includes/widget/twitter.php
+	- includes/images/portfolio_ui_icon.png
+	- haku/includes/metabox.png
+	@ haku/includes/metabox.css
+	@ haku/helper.php
+	@ haku/config.php
+	@ haku/panel/setup.php
+	@ haku/panel/options.php 
+	@ haku/panel/includes/js/haku.js
+	@ section-blog.php
+	@ section-portfolio.php
+	@ includes/metabox/item_sidebar.php
+	- js/jquery.js
+	- js/audio.js
+	@ js/jquery.plugins.js
+	@ js/retro.js
+
+17 January 2013, 3.3:
+	Adjustment: jQuery is now always loaded locally.
+	
+	@ style.css
+	@ haku/config.php
+	@ haku/panel/options.php
+	@ functions.php
+
+14 December 2012, 3.2:
+	Adjustment: Portfolio Filtering.
+	
+	@ style.css
+	@ loop-portfolio.php
+
+13 December 2012, 3.1:
+	Adjustment: Updates for WordPress 3.5.
+	Adjustment: Videos Lightboxes.
+	
+	@ style.css
+	@ haku/config.php
+	@ haku/panel/setup.php
+	@ haku/panel/includes/js/haku.js
+	@ haku/includes/metabox.js
+	@ js/retro.js
+	- haku/panel/includes/js/jquery-ui.js
+
+28 November 2012, 3:
+	Adjustment: Improvement to the Twitter Feed.
+	Adjustment: Added an unobtrusive spam protection to the Contact Form.
+	Adjustment: Page load improvements.
+
+	@ style.css
+	@ haku/helper.php
+	@ section-contact.php
+	@ includes/contact.php
+	@ user.php
+	@ header.php
+
+23 October 2012, 2.4:
+	Adjustment: Twitter Feed.
+
+	@ style.css
+	@ haku/helper.php
+	@ haku/update.php
+
+25 June 2012, 2.3:
+	Adjustment: Better compatibility with old and new versions of WordPress.
+
+	@ style.css
+	@ functions.php
+	@ haku/helper.php
+
+14 June 2012, 2.2:
+	Adjustment: Wordpress 3.4 compatibility.
+
+	@ style.css
+	@ haku/config.php
+	@ haku/helper.php
+
+3 June 2012, 2.1:
+	Adjustment: Content filter improvement.
+
+	@ style.css
+	@ haku/config.php
+	- haku/functions.php
+	+ haku/helper.php
+	@ section-about.php
+
+13 May, 2.0:
+	Adjustment: Minor code improvements.
+
+	@ style.css
+	@ comments.php
+	@ sidebar.php
+	@ functions.php
+	@ js/retro.js
+
+4 May, 1.9:
+	Adjustment: Improved the function that obtains Tweets.
+
+	@ style.css
+	@ haku/functions.php
+
+17 April, 1.8:
+	Adjustment: Changed the way the Portfolio and Blog pagination is managed to prevent further misunderstandings.
+
+	@ style.css
+	@ haku/panel/options.php
+	@ haku/panel/includes/js/haku.js
+
+16 April, 1.7:
+	Adjustment: Better support for installations using a different "Site Address" option.
+	Adjustment: Better behaviour when the "Sticky Menu" option is not being used.
+	Adjustment: Added fallback function for servers without the PHP "mbstring" extention.
+
+	@ style.css
+	@ 404.php
+	@ archive.php
+	@ header.php
+	@ page.php
+	@ search.php
+	@ single.php
+	@ js/retro.js
+	@ user.php
+	@ functions.php
+
+12 March, 1.6:
+	New Feature: Added option to configure the Contact Form mails Sender.
+	Adjustment: Minor code improvements.
+
+	@ style.css
+	@ haku/config.php
+	@ haku/panel/options.php
+	@ haku/functions.php
+	@ includes/contact.php
+	@ section-blog.php
+	@ loop.php
+	@ content-single.php
+	@ js/retro.js
+	@ images/structure/
+	@ languages/default.po
+
+9 March, 1.5:
+	New Feature: Added Sticky Menu option.
+	Fix: Audio Player display bug on Firefox.
+	Adjustment: Minor code improvements.
+
+	@ style.css
+	@ haku/config.php
+	@ haku/panel/options.php
+	@ user.php
+	@ functions.php
+	@ js/retro.js
+	@ header.php
+	@ section-contact.php
+	@ languages/default.po
+
+7 March, 1.4:
+	New Feature: Added Pause, Randomise and Arrows options for the Home's Slider.
+	New Feature: Added Pagination option for the "Blog" section.
+	New Feature: Added Custom Content option for the "About" section.
+	New Feature: Added Headings Font alternative.
+	New Feature: Added Font Size and Font Family options.
+	New Feature: Added CSS Code option.
+	New Feature: Added multiple filters support for the Portfolio.
+	New Feature: Added New Tab option for Link Media items.
+	Adjustment: Code improvements and minor layout fixes.
+	Adjustment: Haku Framework Update.
+
+	@ style.css
+	@ page.php
+	@ 404.php
+	@ archive.php
+	@ search.php
+	@ single.php
+	- css/
+	+ font/
+	@ user.php
+	@ haku/config.php
+	@ haku/functions.php
+	@ haku/panel/options.php
+	@ haku/panel/includes/style.css
+	@ haku/panel/includes/js/haku.js
+	@ section-about.php
+	@ section-blog.php
+	@ section-contact.php
+	@ section-portfolio.php
+	@ section-home.php
+	@ js/retro.js
+	@ functions.php
+	@ loop.php
+	@ loop-portfolio.php
+	@ section-portfolio.php
+	@ js/jquery.plugins.js
+	@ includes/metabox/format_standard.php
+	@ post.php
+	@ languages/default.po
+
+3 March, 1.3:
+	New feature: Now you can change the label and intro width of every section from the Control Panel.
+	New feature: Now the Main Menu will automatically be adapted if you don't use a Logo.
+	New feature: Now you can disable each "About" column and they will be automatically adapted to the layout.
+	New feature: Added option to hide the Contact Me Address, Phone and E-Mail icons.
+	New feature: Added option to disable "Top" buttons.
+	Adjustment: Bug workaround and adjustments for iOS devices (iPad, iPhone).
+	Adjustment: Code improvements and more flexibility.
+	Adjustment: Expanded accented letters support for the default headings font.
+
+	@ style.css
+	@ header.php
+	@ section-about.php
+	@ section-blog.php
+	@ section-contact.php
+	@ section-home.php
+	@ section-portfolio.php
+	@ js/retro.js
+	@ haku/config.php
+	@ haku/panel/options.php
+	@ 404.php
+	@ archive.php
+	@ page.php
+	@ search.php
+	@ single.php
+	+ user.php
+	@ loop.php
+	@ loop-portfolio.php
+	@ images/structure/loading.gif
+	@ languages/default.po
+	@ comments.php
+	@ content-single.php
+	@ functions.php
+	@ includes/widget/flickr.php
+	@ includes/widget/latests.php
+	@ includes/widget/maps.php
+	@ includes/widget/twitter.php
+	@ includes/widget/video.php
+	@ not-found.php
+	@ css/bazar-webfont.*
+
+1 March, 1.2:
+	Fix: Now the menu section titles are displayed correctly if short.
+	New feature: Now you can use a custom image in the "About" section columns.
+	New feature: Now you can add up to 3 custom social networks w/ icons.
+	Adjustment: Logo CSS.
+	Adjustment: Comments Form Submit style.
+	Adjustment: "About" section icons filenames. (d'oh!)
+	Adjustment: Added .bypostauthor class.
+
+	@ style.css
+	@ header.php
+	@ haku/config.php
+	@ haku/panel/options.php
+	@ section-about.php
+	@ images/symbols/ico_*.png
+	@ section-contact.php
+	@ languages/default.po
+
+29 February, 1.1:
+	Fix: Titles uppercase fix for Opera.
+
+	@ style.css
+	@ header.php
+	@ section-home.php
+	@ section-about.php
+	@ section-portfolio.php
+	@ loop-portfolio.php
+	@ section-blog.php
+	@ section-contact.php
+	@ loop.php
+	@ content-single.php
+	@ functions.php
+	@ archive.php
+	@ not-found.php
+	@ page.php
+	@ single.php
+	@ includes/widget/flickr.php
+	@ includes/widget/latests.php
+	@ includes/widget/maps.php
+	@ includes/widget/twitter.php
+	@ includes/widget/video.php
+	@ languages/default.po
+
+29 February 2012, 1.0:
+	Initial release!
