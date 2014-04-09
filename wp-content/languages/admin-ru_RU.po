@@ -2,10 +2,10 @@
 # This file is distributed under the same license as the WordPress package.
 msgid ""
 msgstr ""
-"Project-Id-Version: WordPress 3.8.1\n"
+"Project-Id-Version: WordPress 3.8.2\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2013-12-11 23:14:09+00:00\n"
-"PO-Revision-Date: 2014-01-24 00:35+0400\n"
+"POT-Creation-Date: 2014-04-08 19:11:59+00:00\n"
+"PO-Revision-Date: 2014-04-09 17:28+0400\n"
 "Last-Translator: Sergey Biryukov <sergeybiryukov.ru@gmail.com>\n"
 "Language-Team: ru.wordpress.org <sergeybiryukov.ru@gmail.com>\n"
 "Language: ru_RU\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;_c;_x;__ngettext_noop:1,2;__ngettext:1,2\n"
 "X-Poedit-Basepath: S:\\home\\wordpress\\trunk\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-SearchPath-0: S:\\home\\wordpress\\trunk\n"
 
 #: wp-admin/about.php:25
@@ -53,196 +53,7 @@ msgstr "Участники"
 msgid "Freedoms"
 msgstr "Права"
 
-#: wp-admin/about.php:42
-msgid "Introducing a modern new&nbsp;design"
-msgstr "Встречайте новый, современный&nbsp;дизайн"
-
-#: wp-admin/about.php:47
-msgid "Modern aesthetic"
-msgstr "Современный вид"
-
-#: wp-admin/about.php:48
-msgid ""
-"The new WordPress dashboard has a fresh, uncluttered design that embraces "
-"clarity and simplicity."
-msgstr ""
-"Новая панель управления WordPress имеет минималистичный дизайн, отличиями "
-"которого являются простота и доступность."
-
-#: wp-admin/about.php:52
-msgid "Clean typography"
-msgstr "Изящная типографика"
-
-#: wp-admin/about.php:53
-msgid ""
-"The Open Sans typeface provides simple, friendly text that is optimized for "
-"both desktop and mobile viewing. It&#8217;s even open source, just like "
-"WordPress."
-msgstr ""
-"Шрифт Open Sans делает текст легко читаемым и приятным для просмотра как на "
-"компьютерах, так и на мобильных устройствах. Шрифт распространяется по "
-"открытой лицензии, как и WordPress."
-
-#: wp-admin/about.php:57
-msgid "Refined contrast"
-msgstr "Улучшенный контраст"
-
-#: wp-admin/about.php:58
-msgid ""
-"We think beautiful design should never sacrifice legibility. With superior "
-"contrast and large, comfortable type, the new design is easy to read and a "
-"pleasure to navigate."
-msgstr ""
-"Мы считаем, что красивый дизайн не должен ухудшать читаемость. Благодаря "
-"превосходному контрасту и большому размеру шрифта новый дизайн лёгок для "
-"чтения и удобен для навигации."
-
-#: wp-admin/about.php:68
-msgid "WordPress on every&nbsp;device"
-msgstr "WordPress на каждом&nbsp;устройстве"
-
-#: wp-admin/about.php:69
-msgid ""
-"We all access the internet in different ways. Smartphone, tablet, notebook, "
-"desktop &mdash; no matter what you use, WordPress will adapt and you&#8217;"
-"ll feel right at home."
-msgstr ""
-"Каким бы образом вы ни выходили в Интернет &mdash; с помощью телефона, "
-"планшета, ноутбука или компьютера &mdash; WordPress адаптируется, и вы "
-"будете чувствовать себя как дома."
-
-#: wp-admin/about.php:70
-msgid "High definition at high&nbsp;speed"
-msgstr "Высокая чёткость на высокой&nbsp;скорости"
-
-#: wp-admin/about.php:71
-msgid ""
-"WordPress is sharper than ever with new vector-based icons that scale to "
-"your screen. By ditching pixels, pages load significantly faster, too."
-msgstr ""
-"WordPress достиг небывалой резкости изображения благодаря новым векторным "
-"иконкам с возможностью масштабирования. Без лишних пикселей страницы "
-"загружаются гораздо быстрее."
-
-#: wp-admin/about.php:90
-msgid "Pick a color"
-msgstr "Выберите цвет"
-
-#: wp-admin/about.php:91
-msgid ""
-"We&#8217;ve included eight color schemes so you can pick your favorite. "
-"Choose from any of them below to change it instantly."
-msgstr ""
-"Мы включили восемь цветовых схем, чтобы вы могли выбрать свою любимую. "
-"Попробовав любую из них ниже, вы сразу увидите изменения."
-
-#: wp-admin/about.php:96
-msgid ""
-"To change your color scheme later, just <a href=\"%1$s\">visit your profile</"
-"a>."
-msgstr ""
-"Изменить цветовую схему позже вы можете в <a href=\"%1$s\">своём профиле</a>."
-
-#: wp-admin/about.php:107
-msgid "Refined theme management"
-msgstr "Улучшенное управление темами"
-
-#: wp-admin/about.php:108
-msgid ""
-"The new themes screen lets you survey your themes at a glance. Or want more "
-"information? Click to discover more. Then sit back and use your "
-"keyboard&#8217;s navigation arrows to flip through every theme you&#8217;ve "
-"got."
-msgstr ""
-"Новый экран управления темами позволяет вам быстро окинуть их взглядом. "
-"Хотите больше информации? Окно откроется по щелчку. В нём можно использовать "
-"стрелки на клавиатуре, чтобы просмотреть все темы, которые у вас есть."
-
-#: wp-admin/about.php:109
-msgid "Smoother widget experience"
-msgstr "Упрощённая работа с виджетами"
-
-#: wp-admin/about.php:110
-msgid ""
-"Drag-drag-drag. Scroll-scroll-scroll. Widget management can be complicated. "
-"With the new design, we&#8217;ve worked to streamline the widgets&nbsp;"
-"screen."
-msgstr ""
-"Тащим-тащим-тащим. Крутим-крутим-крутим. Настройка виджетов может быть "
-"утомительной. В новом дизайне мы существенно упростили экран управления "
-"виджетами."
-
-#: wp-admin/about.php:111
-msgid ""
-"Have a large monitor? Multiple widget areas stack side-by-side to use the "
-"available space. Using a tablet? Just tap a widget to add it."
-msgstr ""
-"У вас большой монитор? Области для виджетов будут расположены рядом, "
-"используя доступное место. Работаете на планшете? Просто нажмите на виджет, "
-"чтобы добавить его."
-
-#: wp-admin/about.php:122
-msgid "Twenty Fourteen, a sleek new magazine&nbsp;theme"
-msgstr "Twenty Fourteen, новая элегантная журнальная&nbsp;тема"
-
-#: wp-admin/about.php:127
-msgid "Turn your blog into a&nbsp;magazine"
-msgstr "Превратите свой блог в&nbsp;журнал"
-
-#: wp-admin/about.php:128
-msgid ""
-"Create a beautiful magazine-style site with WordPress and Twenty Fourteen. "
-"Choose a grid or a slider to display featured content on your homepage. "
-"Customize your site with three widget areas or change your layout with two "
-"page templates."
-msgstr ""
-"Создайте красивый журнальный сайт на WordPress с Twenty Fourteen. Выберите "
-"сетку или слайдер, чтобы отобразить избранное содержимое на главной. "
-"Настройте свой сайт с помощью трёх областей для виджетов и используйте два "
-"шаблона страниц для изменения оформления."
-
-#: wp-admin/about.php:129
-msgid ""
-"With a striking design that does not compromise our trademark simplicity, "
-"Twenty Fourteen is our most intrepid default theme yet."
-msgstr ""
-"Благодаря изумительному дизайну в сочетании с традиционной простотой, "
-"Twenty&nbsp;Fourteen &#8212; наша самая новаторская тема на текущий момент."
-
-#: wp-admin/about.php:139
-msgid "Return to Updates"
-msgstr "Вернуться на страницу &laquo;Обновления&raquo;"
-
-#: wp-admin/about.php:139
-msgid "Return to Dashboard &rarr; Updates"
-msgstr ""
-"Вернуться на страницу &laquo;Консоль&raquo; &rarr; &laquo;Обновления&raquo;"
-
-#: wp-admin/about.php:143
-msgid "Go to Dashboard &rarr; Home"
-msgstr "Перейти на страницу &laquo;Консоль&raquo; &rarr; &laquo;Главная&raquo;"
-
-#: wp-admin/about.php:143
-msgid "Go to Dashboard"
-msgstr "Перейти на страницу &laquo;Консоль&raquo;"
-
-#: wp-admin/about.php:154
-msgid "Maintenance Release"
-msgid_plural "Maintenance Releases"
-msgstr[0] "Техническое обновление"
-msgstr[1] "Технические обновления"
-msgstr[2] "Технические обновления"
-msgstr[3] "Технические обновления"
-
-#: wp-admin/about.php:155
-msgid "Security Release"
-msgid_plural "Security Releases"
-msgstr[0] "Обновление безопасности"
-msgstr[1] "Обновления безопасности"
-msgstr[2] "Обновления безопасности"
-msgstr[3] "Обновления безопасности"
-
-#: wp-admin/about.php:156
+#: wp-admin/about.php:42 wp-admin/about.php:168
 msgid "Maintenance and Security Release"
 msgid_plural "Maintenance and Security Releases"
 msgstr[0] "Техническое обновление безопасности"
@@ -250,50 +61,9 @@ msgstr[1] "Технические обновления безопасности"
 msgstr[2] "Технические обновления безопасности"
 msgstr[3] "Технические обновления безопасности"
 
-#. translators: 1: WordPress version number.
-#: wp-admin/about.php:159
-msgid "<strong>Version %1$s</strong> addressed a security issue."
-msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
-msgstr[0] "В <strong>версии %1$s</strong> решена проблема с безопасностью."
-msgstr[1] ""
-"В <strong>версии %1$s</strong> решены несколько проблем с безопасностью."
-msgstr[2] ""
-"В <strong>версии %1$s</strong> решены несколько проблем с безопасностью."
-msgstr[3] ""
-"В <strong>версии %1$s</strong> решены несколько проблем с безопасностью."
-
-#. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:163
-msgid "<strong>Version %1$s</strong> addressed %2$s bug."
-msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
-msgstr[0] "В <strong>версии %1$s</strong> исправлена %2$s ошибка."
-msgstr[1] "В <strong>версии %1$s</strong> исправлены %2$s ошибки."
-msgstr[2] "В <strong>версии %1$s</strong> исправлены %2$s ошибок."
-msgstr[3] "В <strong>версии %1$s</strong> исправлена %2$s ошибка."
-
-#. translators: 1: WordPress version number, 2: plural number of bugs. Singular
-#. security issue.
-#: wp-admin/about.php:167
-msgid ""
-"<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
-msgid_plural ""
-"<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
-msgstr[0] ""
-"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлена "
-"%2$s ошибка."
-msgstr[1] ""
-"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлены "
-"%2$s ошибки."
-msgstr[2] ""
-"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлены "
-"%2$s ошибок."
-msgstr[3] ""
-"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлена "
-"%2$s ошибка."
-
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:171
+#: wp-admin/about.php:43 wp-admin/about.php:183
 msgid ""
 "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s "
 "bug."
@@ -313,10 +83,240 @@ msgstr[3] ""
 "В <strong>версии %1$s</strong> решены несколько проблем с безопасностью и "
 "исправлена %2$s ошибка."
 
-#: wp-admin/about.php:174
+#: wp-admin/about.php:45 wp-admin/about.php:49 wp-admin/about.php:186
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr ""
 "Дополнительную информацию можно найти в <a href=\"%s\">заметке о релизе</a>."
+
+#. translators: 1: WordPress version number, 2: plural number of bugs.
+#: wp-admin/about.php:47 wp-admin/about.php:175
+msgid "<strong>Version %1$s</strong> addressed %2$s bug."
+msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
+msgstr[0] "В <strong>версии %1$s</strong> исправлена %2$s ошибка."
+msgstr[1] "В <strong>версии %1$s</strong> исправлены %2$s ошибки."
+msgstr[2] "В <strong>версии %1$s</strong> исправлены %2$s ошибок."
+msgstr[3] "В <strong>версии %1$s</strong> исправлена %2$s ошибка."
+
+#: wp-admin/about.php:54
+msgid "Introducing a modern new&nbsp;design"
+msgstr "Встречайте новый, современный&nbsp;дизайн"
+
+#: wp-admin/about.php:59
+msgid "Modern aesthetic"
+msgstr "Современный вид"
+
+#: wp-admin/about.php:60
+msgid ""
+"The new WordPress dashboard has a fresh, uncluttered design that embraces "
+"clarity and simplicity."
+msgstr ""
+"Новая панель управления WordPress имеет минималистичный дизайн, отличиями "
+"которого являются простота и доступность."
+
+#: wp-admin/about.php:64
+msgid "Clean typography"
+msgstr "Изящная типографика"
+
+#: wp-admin/about.php:65
+msgid ""
+"The Open Sans typeface provides simple, friendly text that is optimized for "
+"both desktop and mobile viewing. It&#8217;s even open source, just like "
+"WordPress."
+msgstr ""
+"Шрифт Open Sans делает текст легко читаемым и приятным для просмотра как на "
+"компьютерах, так и на мобильных устройствах. Шрифт распространяется по "
+"открытой лицензии, как и WordPress."
+
+#: wp-admin/about.php:69
+msgid "Refined contrast"
+msgstr "Улучшенный контраст"
+
+#: wp-admin/about.php:70
+msgid ""
+"We think beautiful design should never sacrifice legibility. With superior "
+"contrast and large, comfortable type, the new design is easy to read and a "
+"pleasure to navigate."
+msgstr ""
+"Мы считаем, что красивый дизайн не должен ухудшать читаемость. Благодаря "
+"превосходному контрасту и большому размеру шрифта новый дизайн лёгок для "
+"чтения и удобен для навигации."
+
+#: wp-admin/about.php:80
+msgid "WordPress on every&nbsp;device"
+msgstr "WordPress на каждом&nbsp;устройстве"
+
+#: wp-admin/about.php:81
+msgid ""
+"We all access the internet in different ways. Smartphone, tablet, notebook, "
+"desktop &mdash; no matter what you use, WordPress will adapt and you&#8217;"
+"ll feel right at home."
+msgstr ""
+"Каким бы образом вы ни выходили в Интернет &mdash; с помощью телефона, "
+"планшета, ноутбука или компьютера &mdash; WordPress адаптируется, и вы "
+"будете чувствовать себя как дома."
+
+#: wp-admin/about.php:82
+msgid "High definition at high&nbsp;speed"
+msgstr "Высокая чёткость на высокой&nbsp;скорости"
+
+#: wp-admin/about.php:83
+msgid ""
+"WordPress is sharper than ever with new vector-based icons that scale to "
+"your screen. By ditching pixels, pages load significantly faster, too."
+msgstr ""
+"WordPress достиг небывалой резкости изображения благодаря новым векторным "
+"иконкам с возможностью масштабирования. Без лишних пикселей страницы "
+"загружаются гораздо быстрее."
+
+#: wp-admin/about.php:102
+msgid "Pick a color"
+msgstr "Выберите цвет"
+
+#: wp-admin/about.php:103
+msgid ""
+"We&#8217;ve included eight color schemes so you can pick your favorite. "
+"Choose from any of them below to change it instantly."
+msgstr ""
+"Мы включили восемь цветовых схем, чтобы вы могли выбрать свою любимую. "
+"Попробовав любую из них ниже, вы сразу увидите изменения."
+
+#: wp-admin/about.php:108
+msgid ""
+"To change your color scheme later, just <a href=\"%1$s\">visit your profile</"
+"a>."
+msgstr ""
+"Изменить цветовую схему позже вы можете в <a href=\"%1$s\">своём профиле</a>."
+
+#: wp-admin/about.php:119
+msgid "Refined theme management"
+msgstr "Улучшенное управление темами"
+
+#: wp-admin/about.php:120
+msgid ""
+"The new themes screen lets you survey your themes at a glance. Or want more "
+"information? Click to discover more. Then sit back and use your "
+"keyboard&#8217;s navigation arrows to flip through every theme you&#8217;ve "
+"got."
+msgstr ""
+"Новый экран управления темами позволяет вам быстро окинуть их взглядом. "
+"Хотите больше информации? Окно откроется по щелчку. В нём можно использовать "
+"стрелки на клавиатуре, чтобы просмотреть все темы, которые у вас есть."
+
+#: wp-admin/about.php:121
+msgid "Smoother widget experience"
+msgstr "Упрощённая работа с виджетами"
+
+#: wp-admin/about.php:122
+msgid ""
+"Drag-drag-drag. Scroll-scroll-scroll. Widget management can be complicated. "
+"With the new design, we&#8217;ve worked to streamline the widgets&nbsp;"
+"screen."
+msgstr ""
+"Тащим-тащим-тащим. Крутим-крутим-крутим. Настройка виджетов может быть "
+"утомительной. В новом дизайне мы существенно упростили экран управления "
+"виджетами."
+
+#: wp-admin/about.php:123
+msgid ""
+"Have a large monitor? Multiple widget areas stack side-by-side to use the "
+"available space. Using a tablet? Just tap a widget to add it."
+msgstr ""
+"У вас большой монитор? Области для виджетов будут расположены рядом, "
+"используя доступное место. Работаете на планшете? Просто нажмите на виджет, "
+"чтобы добавить его."
+
+#: wp-admin/about.php:134
+msgid "Twenty Fourteen, a sleek new magazine&nbsp;theme"
+msgstr "Twenty Fourteen, новая элегантная журнальная&nbsp;тема"
+
+#: wp-admin/about.php:139
+msgid "Turn your blog into a&nbsp;magazine"
+msgstr "Превратите свой блог в&nbsp;журнал"
+
+#: wp-admin/about.php:140
+msgid ""
+"Create a beautiful magazine-style site with WordPress and Twenty Fourteen. "
+"Choose a grid or a slider to display featured content on your homepage. "
+"Customize your site with three widget areas or change your layout with two "
+"page templates."
+msgstr ""
+"Создайте красивый журнальный сайт на WordPress с Twenty Fourteen. Выберите "
+"сетку или слайдер, чтобы отобразить избранное содержимое на главной. "
+"Настройте свой сайт с помощью трёх областей для виджетов и используйте два "
+"шаблона страниц для изменения оформления."
+
+#: wp-admin/about.php:141
+msgid ""
+"With a striking design that does not compromise our trademark simplicity, "
+"Twenty Fourteen is our most intrepid default theme yet."
+msgstr ""
+"Благодаря изумительному дизайну в сочетании с традиционной простотой, "
+"Twenty&nbsp;Fourteen &#8212; наша самая новаторская тема на текущий момент."
+
+#: wp-admin/about.php:151
+msgid "Return to Updates"
+msgstr "Вернуться на страницу &laquo;Обновления&raquo;"
+
+#: wp-admin/about.php:151
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+"Вернуться на страницу &laquo;Консоль&raquo; &rarr; &laquo;Обновления&raquo;"
+
+#: wp-admin/about.php:155
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Перейти на страницу &laquo;Консоль&raquo; &rarr; &laquo;Главная&raquo;"
+
+#: wp-admin/about.php:155
+msgid "Go to Dashboard"
+msgstr "Перейти на страницу &laquo;Консоль&raquo;"
+
+#: wp-admin/about.php:166
+msgid "Maintenance Release"
+msgid_plural "Maintenance Releases"
+msgstr[0] "Техническое обновление"
+msgstr[1] "Технические обновления"
+msgstr[2] "Технические обновления"
+msgstr[3] "Технические обновления"
+
+#: wp-admin/about.php:167
+msgid "Security Release"
+msgid_plural "Security Releases"
+msgstr[0] "Обновление безопасности"
+msgstr[1] "Обновления безопасности"
+msgstr[2] "Обновления безопасности"
+msgstr[3] "Обновления безопасности"
+
+#. translators: 1: WordPress version number.
+#: wp-admin/about.php:171
+msgid "<strong>Version %1$s</strong> addressed a security issue."
+msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
+msgstr[0] "В <strong>версии %1$s</strong> решена проблема с безопасностью."
+msgstr[1] ""
+"В <strong>версии %1$s</strong> решены несколько проблем с безопасностью."
+msgstr[2] ""
+"В <strong>версии %1$s</strong> решены несколько проблем с безопасностью."
+msgstr[3] ""
+"В <strong>версии %1$s</strong> решены несколько проблем с безопасностью."
+
+#. translators: 1: WordPress version number, 2: plural number of bugs. Singular
+#. security issue.
+#: wp-admin/about.php:179
+msgid ""
+"<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
+msgid_plural ""
+"<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
+msgstr[0] ""
+"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлена "
+"%2$s ошибка."
+msgstr[1] ""
+"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлены "
+"%2$s ошибки."
+msgstr[2] ""
+"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлены "
+"%2$s ошибок."
+msgstr[3] ""
+"В <strong>версии %1$s</strong> решена проблема с безопасностью и исправлена "
+"%2$s ошибка."
 
 #: wp-admin/admin-footer.php:35
 msgid ""
@@ -356,13 +356,13 @@ msgstr "Вам не разрешено импортировать данные."
 msgid "Import"
 msgstr "Импорт"
 
-#: wp-admin/async-upload.php:49 wp-admin/post.php:147 wp-admin/post.php:243
-#: wp-admin/post.php:267 wp-admin/post.php:286
+#: wp-admin/async-upload.php:49 wp-admin/post.php:151 wp-admin/post.php:247
+#: wp-admin/post.php:271 wp-admin/post.php:290
 msgid "Unknown post type."
 msgstr "Неизвестный тип записи."
 
 #: wp-admin/async-upload.php:51 wp-admin/edit-tags.php:253
-#: wp-admin/post.php:150
+#: wp-admin/post.php:154
 msgid "You are not allowed to edit this item."
 msgstr "Вам не разрешено редактировать этот элемент."
 
@@ -474,7 +474,7 @@ msgid "Oops, no comment with this ID."
 msgstr "Оп-па, комментария с таким ID не найдено."
 
 #: wp-admin/comment.php:68 wp-admin/comment.php:221
-#: wp-admin/includes/post.php:1243
+#: wp-admin/includes/post.php:1283
 msgid "Go back"
 msgstr "Назад"
 
@@ -1251,8 +1251,8 @@ msgid "This comment is already approved."
 msgstr "Этот комментарий уже одобрен."
 
 #: wp-admin/edit-comments.php:209 wp-admin/edit-comments.php:215
-#: wp-admin/includes/class-wp-comments-list-table.php:460
-#: wp-admin/includes/dashboard.php:453
+#: wp-admin/includes/class-wp-comments-list-table.php:464
+#: wp-admin/includes/dashboard.php:459
 msgid "Edit comment"
 msgstr "Изменить комментарий"
 
@@ -1973,7 +1973,7 @@ msgstr ""
 "Описание по умолчанию не отображается, однако некоторые темы могут его "
 "показывать."
 
-#: wp-admin/edit-tags.php:128 wp-admin/edit-tags.php:143 wp-admin/post.php:144
+#: wp-admin/edit-tags.php:128 wp-admin/edit-tags.php:143 wp-admin/post.php:148
 msgid ""
 "You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
 "deleted?"
@@ -2227,11 +2227,11 @@ msgstr ""
 "Рубрики можно выборочно преобразовать в метки с помощью <a href=\"%s"
 "\">конвертера рубрик в метки</a>."
 
-#: wp-admin/edit.php:82 wp-admin/post.php:246
+#: wp-admin/edit.php:82 wp-admin/post.php:250
 msgid "You are not allowed to move this item to the Trash."
 msgstr "Вам не разрешено перемещать этот элемент в корзину."
 
-#: wp-admin/edit.php:90 wp-admin/post.php:254
+#: wp-admin/edit.php:90 wp-admin/post.php:258
 msgid "Error in moving to Trash."
 msgstr "Ошибка при удалении в корзину."
 
@@ -2239,16 +2239,16 @@ msgstr "Ошибка при удалении в корзину."
 msgid "You are not allowed to restore this item from the Trash."
 msgstr "Вам не разрешено восстанавливать этот элемент из корзины."
 
-#: wp-admin/edit.php:104 wp-admin/post.php:273
+#: wp-admin/edit.php:104 wp-admin/post.php:277
 msgid "Error in restoring from Trash."
 msgstr "Ошибка при восстановлении из корзины."
 
-#: wp-admin/edit.php:116 wp-admin/post.php:289
+#: wp-admin/edit.php:116 wp-admin/post.php:293
 msgid "You are not allowed to delete this item."
 msgstr "Вам не разрешено удалять этот элемент."
 
-#: wp-admin/edit.php:120 wp-admin/edit.php:123 wp-admin/post.php:295
-#: wp-admin/post.php:298 wp-admin/upload.php:126
+#: wp-admin/edit.php:120 wp-admin/edit.php:123 wp-admin/post.php:299
+#: wp-admin/post.php:302 wp-admin/upload.php:126
 msgid "Error in deleting."
 msgstr "Ошибка при удалении."
 
@@ -2851,15 +2851,15 @@ msgid "User <a href=\"#%s\">%s</a> added"
 msgstr "Добавлен пользователь <a href=\"#%s\">%s</a>"
 
 #: wp-admin/includes/ajax-actions.php:1110
-#: wp-admin/includes/ajax-actions.php:1352 wp-admin/includes/post.php:178
-#: wp-admin/includes/post.php:1419 wp-admin/press-this.php:35
+#: wp-admin/includes/ajax-actions.php:1352 wp-admin/includes/post.php:194
+#: wp-admin/includes/post.php:1459 wp-admin/press-this.php:35
 #: wp-admin/upload.php:62
 msgid "You are not allowed to edit this post."
 msgstr "Вам не разрешено редактировать эту запись."
 
 #: wp-admin/includes/ajax-actions.php:1113
-#: wp-admin/includes/ajax-actions.php:1349 wp-admin/includes/post.php:176
-#: wp-admin/includes/post.php:1416
+#: wp-admin/includes/ajax-actions.php:1349 wp-admin/includes/post.php:192
+#: wp-admin/includes/post.php:1456
 msgid "You are not allowed to edit this page."
 msgstr "Вам не разрешено редактировать эту страницу."
 
@@ -2998,16 +2998,16 @@ msgstr[3] ""
 "Корзина <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:209
-#: wp-admin/includes/class-wp-comments-list-table.php:437
-#: wp-admin/includes/class-wp-comments-list-table.php:442
-#: wp-admin/includes/dashboard.php:452
+#: wp-admin/includes/class-wp-comments-list-table.php:441
+#: wp-admin/includes/class-wp-comments-list-table.php:446
+#: wp-admin/includes/dashboard.php:458
 msgid "Unapprove"
 msgstr "Отклонить"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:211
-#: wp-admin/includes/class-wp-comments-list-table.php:439
-#: wp-admin/includes/class-wp-comments-list-table.php:441
-#: wp-admin/includes/dashboard.php:451
+#: wp-admin/includes/class-wp-comments-list-table.php:443
+#: wp-admin/includes/class-wp-comments-list-table.php:445
+#: wp-admin/includes/dashboard.php:457
 msgid "Approve"
 msgstr "Одобрить"
 
@@ -3017,7 +3017,7 @@ msgid "Mark as Spam"
 msgstr "Пометить как спам"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:216
-#: wp-admin/includes/class-wp-comments-list-table.php:450
+#: wp-admin/includes/class-wp-comments-list-table.php:454
 #: wp-admin/includes/class-wp-media-list-table.php:419
 #: wp-admin/includes/class-wp-posts-list-table.php:186
 #: wp-admin/includes/class-wp-posts-list-table.php:600
@@ -3025,7 +3025,7 @@ msgid "Restore"
 msgstr "Восстановить"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:218
-#: wp-admin/includes/class-wp-comments-list-table.php:448
+#: wp-admin/includes/class-wp-comments-list-table.php:452
 msgctxt "comment"
 msgid "Not Spam"
 msgstr "Не спам"
@@ -3057,7 +3057,7 @@ msgid "Empty Trash"
 msgstr "Очистить корзину"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:296
-#: wp-admin/includes/class-wp-comments-list-table.php:581
+#: wp-admin/includes/class-wp-comments-list-table.php:585
 msgctxt "column name"
 msgid "Comment"
 msgstr "Комментарий"
@@ -3072,67 +3072,67 @@ msgid "Select comment"
 msgstr "Выбрать комментарий"
 
 #. translators: 2: comment date, 3: comment time
-#: wp-admin/includes/class-wp-comments-list-table.php:395
+#: wp-admin/includes/class-wp-comments-list-table.php:399
 msgid "Submitted on <a href=\"%1$s\">%2$s at %3$s</a>"
 msgstr "Отправлен <a href=\"%1$s\">%2$s в %3$s</a>"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:405
+#: wp-admin/includes/class-wp-comments-list-table.php:409
 msgid "In reply to <a href=\"%1$s\">%2$s</a>."
 msgstr "В ответ автору <a href=\"%1$s\">%2$s</a>."
 
-#: wp-admin/includes/class-wp-comments-list-table.php:437
-#: wp-admin/includes/class-wp-comments-list-table.php:442
-#: wp-admin/includes/dashboard.php:452
+#: wp-admin/includes/class-wp-comments-list-table.php:441
+#: wp-admin/includes/class-wp-comments-list-table.php:446
+#: wp-admin/includes/dashboard.php:458
 msgid "Unapprove this comment"
 msgstr "Отклонить этот комментарий"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:439
-#: wp-admin/includes/class-wp-comments-list-table.php:441
-#: wp-admin/includes/dashboard.php:451
+#: wp-admin/includes/class-wp-comments-list-table.php:443
+#: wp-admin/includes/class-wp-comments-list-table.php:445
+#: wp-admin/includes/dashboard.php:457
 msgid "Approve this comment"
 msgstr "Одобрить этот комментарий"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:446
-#: wp-admin/includes/dashboard.php:455
+#: wp-admin/includes/class-wp-comments-list-table.php:450
+#: wp-admin/includes/dashboard.php:461
 msgid "Mark this comment as spam"
 msgstr "Пометить этот комментарий как спам"
 
 #. translators: mark as spam link
-#: wp-admin/includes/class-wp-comments-list-table.php:446
-#: wp-admin/includes/dashboard.php:455
+#: wp-admin/includes/class-wp-comments-list-table.php:450
+#: wp-admin/includes/dashboard.php:461
 msgctxt "verb"
 msgid "Spam"
 msgstr "Спам"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:456
-#: wp-admin/includes/dashboard.php:459
+#: wp-admin/includes/class-wp-comments-list-table.php:460
+#: wp-admin/includes/dashboard.php:465
 msgid "Move this comment to the trash"
 msgstr "Переместить комментарий в корзину"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:456
-#: wp-admin/includes/dashboard.php:459
+#: wp-admin/includes/class-wp-comments-list-table.php:460
+#: wp-admin/includes/dashboard.php:465
 msgctxt "verb"
 msgid "Trash"
 msgstr "Удалить"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:461
+#: wp-admin/includes/class-wp-comments-list-table.php:465
 #: wp-admin/includes/class-wp-posts-list-table.php:783
 #: wp-admin/includes/class-wp-terms-list-table.php:336
 msgid "Quick Edit"
 msgstr "Свойства"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:461
+#: wp-admin/includes/class-wp-comments-list-table.php:465
 #: wp-admin/includes/class-wp-posts-list-table.php:596
 #: wp-admin/includes/class-wp-terms-list-table.php:258
 msgid "Quick&nbsp;Edit"
 msgstr "Свойства"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:462
-#: wp-admin/includes/dashboard.php:454
+#: wp-admin/includes/class-wp-comments-list-table.php:466
+#: wp-admin/includes/dashboard.php:460
 msgid "Reply to this comment"
 msgstr "Ответить на комментарий"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:521
+#: wp-admin/includes/class-wp-comments-list-table.php:525
 msgid "Y/m/d \\a\\t g:ia"
 msgstr "d.m.Y в H:i"
 
@@ -3237,7 +3237,7 @@ msgstr "Ссылок не найдено."
 #: wp-admin/includes/class-wp-users-list-table.php:257
 #: wp-admin/includes/media.php:1233 wp-admin/includes/meta-boxes.php:717
 #: wp-admin/includes/template.php:538 wp-admin/includes/widgets.php:223
-#: wp-admin/themes.php:364 wp-admin/widgets.php:283
+#: wp-admin/themes.php:367 wp-admin/widgets.php:283
 msgid "Delete"
 msgstr "Удалить"
 
@@ -3276,7 +3276,7 @@ msgstr "Выбрать %s"
 #: wp-admin/includes/class-wp-media-list-table.php:247
 #: wp-admin/includes/class-wp-posts-list-table.php:568
 #: wp-admin/includes/class-wp-terms-list-table.php:253
-#: wp-admin/includes/dashboard.php:413
+#: wp-admin/includes/dashboard.php:419
 msgid "Edit &#8220;%s&#8221;"
 msgstr "Редактировать &laquo;%s&raquo;"
 
@@ -3647,7 +3647,7 @@ msgstr "Повреждённая тема:"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:235
 #: wp-admin/includes/class-wp-theme-install-list-table.php:339
 #: wp-admin/includes/class-wp-themes-list-table.php:180
-#: wp-admin/themes.php:204 wp-admin/themes.php:281 wp-admin/themes.php:330
+#: wp-admin/themes.php:207 wp-admin/themes.php:284 wp-admin/themes.php:333
 msgid "By %s"
 msgstr "Автор: %s"
 
@@ -4110,7 +4110,7 @@ msgstr[2] "(всего %s голосов)"
 msgstr[3] "(всего %s голос)"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:328
-#: wp-admin/includes/dashboard.php:956
+#: wp-admin/includes/dashboard.php:962
 msgid "Install"
 msgstr "Установить"
 
@@ -4159,8 +4159,8 @@ msgstr "Активировать &laquo;%s&raquo;"
 
 #: wp-admin/includes/class-wp-themes-list-table.php:154
 #: wp-admin/includes/class-wp-upgrader-skins.php:442
-#: wp-admin/includes/class-wp-upgrader-skins.php:507 wp-admin/themes.php:220
-#: wp-admin/themes.php:297 wp-admin/themes.php:359
+#: wp-admin/includes/class-wp-upgrader-skins.php:507 wp-admin/themes.php:223
+#: wp-admin/themes.php:300 wp-admin/themes.php:362
 msgid "Live Preview"
 msgstr "Просмотреть"
 
@@ -4311,7 +4311,7 @@ msgid "Update Translations"
 msgstr "Обновить переводы"
 
 #: wp-admin/includes/class-wp-upgrader-skins.php:550
-#: wp-admin/includes/class-wp-upgrader.php:1892
+#: wp-admin/includes/class-wp-upgrader.php:1895
 msgid "Updating translations for %1$s (%2$s)&#8230;"
 msgstr "Обновление переводов для %1$s (%2$s)&#8230;"
 
@@ -4320,7 +4320,7 @@ msgid "Invalid Data provided."
 msgstr "Предоставлены неверные данные."
 
 #: wp-admin/includes/class-wp-upgrader.php:42
-#: wp-admin/includes/class-wp-upgrader.php:1905 wp-admin/includes/file.php:542
+#: wp-admin/includes/class-wp-upgrader.php:1908 wp-admin/includes/file.php:542
 #: wp-admin/includes/plugin.php:777 wp-admin/includes/theme.php:53
 msgid "Could not access filesystem."
 msgstr "Нет доступа к файловой системе."
@@ -4618,82 +4618,82 @@ msgstr ""
 msgid "Please select a file"
 msgstr "Пожалуйста, выберите файл"
 
-#: wp-admin/includes/class-wp-upgrader.php:1876
+#: wp-admin/includes/class-wp-upgrader.php:1877
 msgid "Updating to WordPress %s"
 msgstr "Обновление до WordPress %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1877
+#: wp-admin/includes/class-wp-upgrader.php:1878
 msgid "WordPress %s"
 msgstr "WordPress %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1882
+#: wp-admin/includes/class-wp-upgrader.php:1884
 msgid "Updating theme: %s"
 msgstr "Обновление темы: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1887
+#: wp-admin/includes/class-wp-upgrader.php:1890
 msgid "Updating plugin: %s"
 msgstr "Обновление плагина: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1891
+#: wp-admin/includes/class-wp-upgrader.php:1894
 msgid "Translations for %s"
 msgstr "Переводы для %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1911 wp-admin/update-core.php:412
+#: wp-admin/includes/class-wp-upgrader.php:1914 wp-admin/update-core.php:412
 msgid "Installation Failed"
 msgstr "Установка не удалась"
 
-#: wp-admin/includes/class-wp-upgrader.php:1913
+#: wp-admin/includes/class-wp-upgrader.php:1916
 #: wp-admin/includes/update-core.php:1037 wp-admin/update-core.php:417
 msgid "WordPress updated successfully"
 msgstr "WordPress успешно обновлён"
 
 #. translators: 1: Site name, 2: WordPress version number.
-#: wp-admin/includes/class-wp-upgrader.php:2173
+#: wp-admin/includes/class-wp-upgrader.php:2189
 msgid "[%1$s] Your site has updated to WordPress %2$s"
 msgstr "[%1$s] Ваш сайт обновлён до WordPress %2$s"
 
 #. translators: 1: Site name, 2: WordPress version number.
-#: wp-admin/includes/class-wp-upgrader.php:2179
+#: wp-admin/includes/class-wp-upgrader.php:2195
 msgid "[%1$s] WordPress %2$s is available. Please update!"
 msgstr "[%1$s] Доступен WordPress %2$s. Пожалуйста, обновитесь!"
 
 #. translators: 1: Site name.
-#: wp-admin/includes/class-wp-upgrader.php:2184
+#: wp-admin/includes/class-wp-upgrader.php:2200
 msgid "[%1$s] URGENT: Your site may be down due to a failed update"
 msgstr ""
 "[%1$s] СРОЧНО: Ваш сайт может быть недоступен из-за неудавшегося обновления"
 
-#: wp-admin/includes/class-wp-upgrader.php:2199
+#: wp-admin/includes/class-wp-upgrader.php:2215
 msgid ""
 "Howdy! Your site at %1$s has been updated automatically to WordPress %2$s."
 msgstr "Привет! Ваш сайт %1$s был автоматически обновлён до WordPress %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2202
+#: wp-admin/includes/class-wp-upgrader.php:2218
 msgid "No further action is needed on your part."
 msgstr "Действий с вашей стороны не требуется."
 
-#: wp-admin/includes/class-wp-upgrader.php:2206
+#: wp-admin/includes/class-wp-upgrader.php:2222
 msgid "For more on version %s, see the About WordPress screen:"
 msgstr "Подробности о версии %s можно узнать на экране \"О WordPress\":"
 
-#: wp-admin/includes/class-wp-upgrader.php:2210
+#: wp-admin/includes/class-wp-upgrader.php:2226
 msgid "WordPress %s is also now available."
 msgstr "Также доступен WordPress %s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2211
-#: wp-admin/includes/class-wp-upgrader.php:2228
+#: wp-admin/includes/class-wp-upgrader.php:2227
+#: wp-admin/includes/class-wp-upgrader.php:2244
 msgid "Updating is easy and only takes a few moments:"
 msgstr "Процедура обновления проста и займёт всего несколько секунд:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2219
+#: wp-admin/includes/class-wp-upgrader.php:2235
 msgid "Please update your site at %1$s to WordPress %2$s."
 msgstr "Пожалуйста, обновите свой сайт %1$s до WordPress %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2226
+#: wp-admin/includes/class-wp-upgrader.php:2242
 msgid "We tried but were unable to update your site automatically."
 msgstr "Мы попытались, но не смогли автоматически обновить ваш сайт."
 
-#: wp-admin/includes/class-wp-upgrader.php:2234
+#: wp-admin/includes/class-wp-upgrader.php:2250
 msgid ""
 "Your site at %1$s experienced a critical failure while trying to update "
 "WordPress to version %2$s."
@@ -4701,7 +4701,7 @@ msgstr ""
 "На вашем сайте %1$s произошла критическая ошибка при попытке обновления "
 "WordPress до версии %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2236
+#: wp-admin/includes/class-wp-upgrader.php:2252
 msgid ""
 "Your site at %1$s experienced a critical failure while trying to update to "
 "the latest version of WordPress, %2$s."
@@ -4709,14 +4709,14 @@ msgstr ""
 "На вашем сайте %1$s произошла критическая ошибка при попытке обновления до "
 "текущей версии WordPress, %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2238
+#: wp-admin/includes/class-wp-upgrader.php:2254
 msgid ""
 "This means your site may be offline or broken. Don't panic; this can be "
 "fixed."
 msgstr ""
 "Возможно, ваш сайт недоступен или повреждён. Без паники; это можно исправить."
 
-#: wp-admin/includes/class-wp-upgrader.php:2240
+#: wp-admin/includes/class-wp-upgrader.php:2256
 msgid ""
 "Please check out your site now. It's possible that everything is working. If "
 "it says you need to update, you should do so:"
@@ -4724,7 +4724,7 @@ msgstr ""
 "Проверьте сейчас свой сайт. Вполне возможно, что всё работает. Если он "
 "предложит обновиться, сделайте это:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2247
+#: wp-admin/includes/class-wp-upgrader.php:2263
 msgid ""
 "Keeping your site updated is important for security. It also makes the "
 "internet a safer place for you and your readers."
@@ -4732,7 +4732,7 @@ msgstr ""
 "Своевременно обновлять сайт важно из соображений безопасности. Это также "
 "делает Интернет более безопасным местом для вас и ваших читателей."
 
-#: wp-admin/includes/class-wp-upgrader.php:2250
+#: wp-admin/includes/class-wp-upgrader.php:2266
 msgid ""
 "If you experience any issues or need support, the volunteers in the "
 "WordPress.org support forums may be able to help."
@@ -4740,24 +4740,24 @@ msgstr ""
 "Если вы столкнётесь с проблемами и вам понадобится поддержка, вам помогут "
 "волонтёры на форумах WordPress.org."
 
-#: wp-admin/includes/class-wp-upgrader.php:2255
+#: wp-admin/includes/class-wp-upgrader.php:2271
 msgid ""
 "You also have some plugins or themes with updates available. Update them now:"
 msgstr "Также доступны обновления нескольких плагинов или тем. Обновите их:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2259
+#: wp-admin/includes/class-wp-upgrader.php:2275
 msgid "The WordPress Team"
 msgstr "Команда WordPress"
 
-#: wp-admin/includes/class-wp-upgrader.php:2263
+#: wp-admin/includes/class-wp-upgrader.php:2279
 msgid "Your site was running version %s."
 msgstr "На вашем сайте была установлена версия %s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2264
+#: wp-admin/includes/class-wp-upgrader.php:2280
 msgid "We have some data that describes the error your site encountered."
 msgstr "У нас есть данные с описанием ошибки, произошедшей на вашем сайте."
 
-#: wp-admin/includes/class-wp-upgrader.php:2265
+#: wp-admin/includes/class-wp-upgrader.php:2281
 msgid ""
 "Your hosting company, support forum volunteers, or a friendly developer may "
 "be able to use this information to help you:"
@@ -4765,55 +4765,55 @@ msgstr ""
 "Эта информация позволит вашему хостинг-провайдеру, волонтёрам на форуме "
 "поддержки или знакомому разработчику помочь вам:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2278
+#: wp-admin/includes/class-wp-upgrader.php:2294
 msgid "Error code: %s"
 msgstr "Код ошибки: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2329
+#: wp-admin/includes/class-wp-upgrader.php:2345
 msgid "WordPress site: %s"
 msgstr "Сайт на WordPress: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2335
+#: wp-admin/includes/class-wp-upgrader.php:2351
 msgid "SUCCESS: WordPress was successfully updated to %s"
 msgstr "УСПЕХ: WordPress успешно обновлён до версии %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2337
+#: wp-admin/includes/class-wp-upgrader.php:2353
 msgid "FAILED: WordPress failed to update to %s"
 msgstr "ОШИБКА: Не удалось обновить WordPress до версии %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2350
+#: wp-admin/includes/class-wp-upgrader.php:2366
 msgid "The following plugins were successfully updated:"
 msgstr "Следующие плагины успешно обновлены:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2351
+#: wp-admin/includes/class-wp-upgrader.php:2367
 msgid "The following themes were successfully updated:"
 msgstr "Следующие темы успешно обновлены:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2352
+#: wp-admin/includes/class-wp-upgrader.php:2368
 msgid "The following translations were successfully updated:"
 msgstr "Следующие переводы успешно обновлены:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2357
+#: wp-admin/includes/class-wp-upgrader.php:2373
 msgid "SUCCESS: %s"
 msgstr "УСПЕХ: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2363
+#: wp-admin/includes/class-wp-upgrader.php:2379
 msgid "The following plugins failed to update:"
 msgstr "Следующие плагины не удалось обновить:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2364
+#: wp-admin/includes/class-wp-upgrader.php:2380
 msgid "The following themes failed to update:"
 msgstr "Следующие темы не удалось обновить:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2365
+#: wp-admin/includes/class-wp-upgrader.php:2381
 msgid "The following translations failed to update:"
 msgstr "Следующие переводы не удалось обновить:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2371
+#: wp-admin/includes/class-wp-upgrader.php:2387
 msgid "FAILED: %s"
 msgstr "ОШИБКА: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2381
+#: wp-admin/includes/class-wp-upgrader.php:2397
 msgid ""
 "\n"
 "BETA TESTING?\n"
@@ -4846,25 +4846,25 @@ msgstr ""
 "\n"
 "Спасибо! -- Команда WordPress"
 
-#: wp-admin/includes/class-wp-upgrader.php:2393
+#: wp-admin/includes/class-wp-upgrader.php:2409
 msgid "[%s] There were failures during background updates"
 msgstr "[%s] При фоновых обновлениях произошли ошибки"
 
-#: wp-admin/includes/class-wp-upgrader.php:2395
+#: wp-admin/includes/class-wp-upgrader.php:2411
 msgid "[%s] Background updates have finished"
 msgstr "[%s] Фоновые обновления завершены"
 
-#: wp-admin/includes/class-wp-upgrader.php:2398
+#: wp-admin/includes/class-wp-upgrader.php:2414
 msgid "UPDATE LOG"
 msgstr "ЖУРНАЛ ОБНОВЛЕНИЯ"
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-upgrader.php:2421
+#: wp-admin/includes/class-wp-upgrader.php:2437
 msgid "Rollback Error: [%1$s] %2$s"
 msgstr "Ошибка при откате: [%1$s] %2$s"
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-upgrader.php:2424
+#: wp-admin/includes/class-wp-upgrader.php:2440
 msgid "Error: [%1$s] %2$s"
 msgstr "Ошибка: [%1$s] %2$s"
 
@@ -4920,7 +4920,7 @@ msgstr "Активность"
 msgid "Quick Draft"
 msgstr "Быстрый черновик"
 
-#: wp-admin/includes/dashboard.php:52 wp-admin/includes/dashboard.php:406
+#: wp-admin/includes/dashboard.php:52 wp-admin/includes/dashboard.php:412
 msgid "Drafts"
 msgstr "Черновики"
 
@@ -4952,7 +4952,7 @@ msgstr[1] "%s страницы"
 msgstr[2] "%s страниц"
 msgstr[3] "%s страница"
 
-#: wp-admin/includes/dashboard.php:203
+#: wp-admin/includes/dashboard.php:209
 msgid "%s Comment"
 msgid_plural "%s Comments"
 msgstr[0] "%s комментарий"
@@ -4961,7 +4961,7 @@ msgstr[2] "%s комментариев"
 msgstr[3] "%s комментарий"
 
 #. translators: Number of comments in moderation
-#: wp-admin/includes/dashboard.php:209
+#: wp-admin/includes/dashboard.php:215
 msgctxt "comments"
 msgid "%s in moderation"
 msgid_plural "%s in moderation"
@@ -4970,27 +4970,27 @@ msgstr[1] "%s на проверке"
 msgstr[2] "%s на проверке"
 msgstr[3] "%s на проверке"
 
-#: wp-admin/includes/dashboard.php:230
+#: wp-admin/includes/dashboard.php:236
 msgid "WordPress %1$s running %2$s theme."
 msgstr "WordPress %1$s с темой оформления %2$s."
 
-#: wp-admin/includes/dashboard.php:243
+#: wp-admin/includes/dashboard.php:249
 msgid "Your site is asking search engines not to index its content"
 msgstr "Ваш сайт просит поисковые системы не индексировать его содержимое"
 
-#: wp-admin/includes/dashboard.php:252
+#: wp-admin/includes/dashboard.php:258
 msgid "Search Engines Discouraged"
 msgstr "Поисковые системы заблокированы"
 
-#: wp-admin/includes/dashboard.php:276 wp-admin/includes/ms.php:678
+#: wp-admin/includes/dashboard.php:282 wp-admin/includes/ms.php:678
 msgid "Create a New Site"
 msgstr "Создать новый сайт"
 
-#: wp-admin/includes/dashboard.php:278
+#: wp-admin/includes/dashboard.php:284
 msgid "Create a New User"
 msgstr "Создать нового пользователя"
 
-#: wp-admin/includes/dashboard.php:283
+#: wp-admin/includes/dashboard.php:289
 msgid "%s user"
 msgid_plural "%s users"
 msgstr[0] "%s пользователь"
@@ -4998,7 +4998,7 @@ msgstr[1] "%s пользователя"
 msgstr[2] "%s пользователей"
 msgstr[3] "%s пользователь"
 
-#: wp-admin/includes/dashboard.php:284
+#: wp-admin/includes/dashboard.php:290
 msgid "%s site"
 msgid_plural "%s sites"
 msgstr[0] "%s сайт"
@@ -5006,133 +5006,133 @@ msgstr[1] "%s сайта"
 msgstr[2] "%s сайтов"
 msgstr[3] "%s сайт"
 
-#: wp-admin/includes/dashboard.php:286
+#: wp-admin/includes/dashboard.php:292
 msgid "You have %1$s and %2$s."
 msgstr "У вас %1$s и %2$s."
 
-#: wp-admin/includes/dashboard.php:305 wp-admin/users.php:443
+#: wp-admin/includes/dashboard.php:311 wp-admin/users.php:443
 msgid "Search Users"
 msgstr "Поиск пользователей"
 
-#: wp-admin/includes/dashboard.php:312
+#: wp-admin/includes/dashboard.php:318
 msgid "Search Sites"
 msgstr "Поиск сайтов"
 
-#: wp-admin/includes/dashboard.php:363
+#: wp-admin/includes/dashboard.php:369
 msgid "What&#8217;s on your mind?"
 msgstr "О чём хотите написать?"
 
-#: wp-admin/includes/dashboard.php:404
+#: wp-admin/includes/dashboard.php:410
 msgctxt "drafts"
 msgid "View all"
 msgstr "Посмотреть все"
 
 #. translators: 1: comment author, 2: post link, 3: notification if the comment
 #. is pending
-#: wp-admin/includes/dashboard.php:485
+#: wp-admin/includes/dashboard.php:491
 msgid "From %1$s on %2$s%3$s"
 msgstr "%1$s к записи %2$s%3$s"
 
-#: wp-admin/includes/dashboard.php:486
+#: wp-admin/includes/dashboard.php:492
 msgid "[Pending]"
 msgstr "[Ожидает проверки]"
 
 #. translators: %1$s is type of comment, %2$s is link to the post
-#: wp-admin/includes/dashboard.php:505
+#: wp-admin/includes/dashboard.php:511
 msgctxt "dashboard"
 msgid "%1$s on %2$s"
 msgstr "%1$s к записи %2$s"
 
-#: wp-admin/includes/dashboard.php:530
+#: wp-admin/includes/dashboard.php:536
 msgid "Publishing Soon"
 msgstr "Ожидают публикации"
 
-#: wp-admin/includes/dashboard.php:538
+#: wp-admin/includes/dashboard.php:544
 msgid "Recently Published"
 msgstr "Недавно опубликованы"
 
-#: wp-admin/includes/dashboard.php:547
+#: wp-admin/includes/dashboard.php:553
 msgid "No activity yet!"
 msgstr "Активности пока не было."
 
-#: wp-admin/includes/dashboard.php:588
+#: wp-admin/includes/dashboard.php:594
 msgid "See %s more&hellip;"
 msgstr "Показать ещё %s&hellip;"
 
-#: wp-admin/includes/dashboard.php:604
+#: wp-admin/includes/dashboard.php:610
 msgid "Today"
 msgstr "Сегодня"
 
-#: wp-admin/includes/dashboard.php:606
+#: wp-admin/includes/dashboard.php:612
 msgid "Tomorrow"
 msgstr "Завтра"
 
 #. translators: date and time format for recent posts on the dashboard, see
 #. http:php.net/date
-#: wp-admin/includes/dashboard.php:609
+#: wp-admin/includes/dashboard.php:615
 msgid "M jS"
 msgstr "d.m.Y"
 
 #. translators: 1: relative date, 2: time, 4: post title
-#: wp-admin/includes/dashboard.php:614
+#: wp-admin/includes/dashboard.php:620
 msgid "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
 msgstr "<span>%1$s, %2$s</span> <a href=\"%3$s\">%4$s</a>"
 
-#: wp-admin/includes/dashboard.php:726
+#: wp-admin/includes/dashboard.php:732
 msgid "Loading&#8230;"
 msgstr "Загрузка&#8230;"
 
-#: wp-admin/includes/dashboard.php:726
+#: wp-admin/includes/dashboard.php:732
 msgid "This widget requires JavaScript."
 msgstr "Этот виджет требует JavaScript."
 
-#: wp-admin/includes/dashboard.php:830
+#: wp-admin/includes/dashboard.php:836
 msgid "http://wordpress.org/news/"
 msgstr "http://wordpress.org/news/"
 
-#: wp-admin/includes/dashboard.php:831
+#: wp-admin/includes/dashboard.php:837
 msgid "http://wordpress.org/news/feed/"
 msgstr "http://wordpress.org/news/feed/"
 
-#: wp-admin/includes/dashboard.php:832
+#: wp-admin/includes/dashboard.php:838
 msgid "WordPress Blog"
 msgstr "Блог WordPress"
 
-#: wp-admin/includes/dashboard.php:839
+#: wp-admin/includes/dashboard.php:845
 msgid "http://planet.wordpress.org/"
 msgstr "http://planet.wordpress.org/"
 
-#: wp-admin/includes/dashboard.php:840
+#: wp-admin/includes/dashboard.php:846
 msgid "http://planet.wordpress.org/feed/"
 msgstr "http://planet.wordpress.org/feed/"
 
-#: wp-admin/includes/dashboard.php:841
+#: wp-admin/includes/dashboard.php:847
 msgid "Other WordPress News"
 msgstr "Другие новости WordPress"
 
-#: wp-admin/includes/dashboard.php:904
+#: wp-admin/includes/dashboard.php:910
 msgid "Popular Plugin"
 msgstr "Популярный плагин"
 
-#: wp-admin/includes/dashboard.php:990
+#: wp-admin/includes/dashboard.php:996
 msgid "Storage Space"
 msgstr "Дисковое пространство"
 
 #. translators: number of megabytes
-#: wp-admin/includes/dashboard.php:996
+#: wp-admin/includes/dashboard.php:1002
 msgid "%s MB Space Allowed"
 msgstr "%s МБ выделено"
 
-#: wp-admin/includes/dashboard.php:1002 wp-admin/includes/dashboard.php:1015
+#: wp-admin/includes/dashboard.php:1008 wp-admin/includes/dashboard.php:1021
 msgid "Manage Uploads"
 msgstr "Управление файлами"
 
 #. translators: 1: number of megabytes, 2: percentage
-#: wp-admin/includes/dashboard.php:1008
+#: wp-admin/includes/dashboard.php:1014
 msgid "%1$s MB (%2$s%%) Space Used"
 msgstr "%1$s МБ (%2$s%%) занято"
 
-#: wp-admin/includes/dashboard.php:1032
+#: wp-admin/includes/dashboard.php:1038
 msgid ""
 "It looks like you're using an insecure version of <a href='%s'>%s</a>. Using "
 "an outdated browser makes your computer unsafe. For the best WordPress "
@@ -5143,7 +5143,7 @@ msgstr ""
 "Пожалуйста, обновите свой браузер, чтобы получить более полное впечатление о "
 "работе с WordPress."
 
-#: wp-admin/includes/dashboard.php:1034
+#: wp-admin/includes/dashboard.php:1040
 msgid ""
 "It looks like you're using an old version of <a href='%s'>%s</a>. For the "
 "best WordPress experience, please update your browser."
@@ -5152,7 +5152,7 @@ msgstr ""
 "Пожалуйста, обновите свой браузер, чтобы получить более полное впечатление о "
 "работе с WordPress."
 
-#: wp-admin/includes/dashboard.php:1051
+#: wp-admin/includes/dashboard.php:1057
 msgid ""
 "<a href=\"%1$s\" class=\"update-browser-link\">Update %2$s</a> or learn how "
 "to <a href=\"%3$s\" class=\"browse-happy-link\">browse happy</a>"
@@ -5160,71 +5160,71 @@ msgstr ""
 "<a href=\"%1$s\" class=\"update-browser-link\">Обновите %2$s</a> или узнайте "
 "о <a href=\"%3$s\" class=\"browse-happy-link\">других возможностях</a>"
 
-#: wp-admin/includes/dashboard.php:1129
+#: wp-admin/includes/dashboard.php:1135
 msgid "Welcome to WordPress!"
 msgstr "Добро пожаловать в WordPress!"
 
-#: wp-admin/includes/dashboard.php:1130
+#: wp-admin/includes/dashboard.php:1136
 msgid "We&#8217;ve assembled some links to get you started:"
 msgstr "Мы собрали несколько ссылок для вашего удобства:"
 
-#: wp-admin/includes/dashboard.php:1133
+#: wp-admin/includes/dashboard.php:1139
 msgid "Get Started"
 msgstr "Для начала"
 
-#: wp-admin/includes/dashboard.php:1134 wp-admin/includes/dashboard.php:1135
+#: wp-admin/includes/dashboard.php:1140 wp-admin/includes/dashboard.php:1141
 msgid "Customize Your Site"
 msgstr "Настройте свой сайт"
 
-#: wp-admin/includes/dashboard.php:1137
+#: wp-admin/includes/dashboard.php:1143
 msgid "or, <a href=\"%s\">change your theme completely</a>"
 msgstr "или <a href=\"%s\">выберите другую тему</a>"
 
-#: wp-admin/includes/dashboard.php:1141
+#: wp-admin/includes/dashboard.php:1147
 msgid "Next Steps"
 msgstr "Следующие шаги"
 
-#: wp-admin/includes/dashboard.php:1144 wp-admin/includes/dashboard.php:1147
+#: wp-admin/includes/dashboard.php:1150 wp-admin/includes/dashboard.php:1153
 msgid "Edit your front page"
 msgstr "Отредактируйте главную страницу"
 
-#: wp-admin/includes/dashboard.php:1145 wp-admin/includes/dashboard.php:1148
+#: wp-admin/includes/dashboard.php:1151 wp-admin/includes/dashboard.php:1154
 msgid "Add additional pages"
 msgstr "Добавьте другие страницы"
 
-#: wp-admin/includes/dashboard.php:1149
+#: wp-admin/includes/dashboard.php:1155
 msgid "Add a blog post"
 msgstr "Добавьте запись в блог"
 
-#: wp-admin/includes/dashboard.php:1151
+#: wp-admin/includes/dashboard.php:1157
 msgid "Write your first blog post"
 msgstr "Напишите свою первую запись"
 
-#: wp-admin/includes/dashboard.php:1152
+#: wp-admin/includes/dashboard.php:1158
 msgid "Add an About page"
 msgstr "Создайте страницу &laquo;Обо мне&raquo;"
 
-#: wp-admin/includes/dashboard.php:1154
+#: wp-admin/includes/dashboard.php:1160
 msgid "View your site"
 msgstr "Просмотрите свой сайт"
 
-#: wp-admin/includes/dashboard.php:1158
+#: wp-admin/includes/dashboard.php:1164
 msgid "More Actions"
 msgstr "Другие действия"
 
-#: wp-admin/includes/dashboard.php:1160
+#: wp-admin/includes/dashboard.php:1166
 msgid "Manage <a href=\"%1$s\">widgets</a> or <a href=\"%2$s\">menus</a>"
 msgstr "Настройте <a href=\"%1$s\">виджеты</a> и <a href=\"%2$s\">меню</a>"
 
-#: wp-admin/includes/dashboard.php:1161
+#: wp-admin/includes/dashboard.php:1167
 msgid "Turn comments on or off"
 msgstr "Включите или выключите комментарии"
 
-#: wp-admin/includes/dashboard.php:1162
+#: wp-admin/includes/dashboard.php:1168
 msgid "Learn more about getting started"
 msgstr "Узнайте больше о работе с WordPress"
 
-#: wp-admin/includes/dashboard.php:1162
+#: wp-admin/includes/dashboard.php:1168
 msgid "http://codex.wordpress.org/First_Steps_With_WordPress"
 msgstr "http://codex.wordpress.org/Первые_шаги_с_WordPress"
 
@@ -7158,67 +7158,67 @@ msgstr "Вам не разрешено редактировать страниц
 msgid "You are not allowed to edit posts as this user."
 msgstr "Вам не разрешено редактировать записи от лица этого пользователя."
 
-#: wp-admin/includes/post.php:322
+#: wp-admin/includes/post.php:339
 msgid "You are not allowed to edit pages."
 msgstr "Вам не разрешено редактировать страницы."
 
-#: wp-admin/includes/post.php:324
+#: wp-admin/includes/post.php:341
 msgid "You are not allowed to edit posts."
 msgstr "Вам не разрешено редактировать записи."
 
-#: wp-admin/includes/post.php:469
+#: wp-admin/includes/post.php:509
 msgid "Auto Draft"
 msgstr "Черновик"
 
-#: wp-admin/includes/post.php:558
+#: wp-admin/includes/post.php:598
 msgid "You are not allowed to create pages on this site."
 msgstr "Вам не разрешено создавать страницы на этом сайте."
 
-#: wp-admin/includes/post.php:560
+#: wp-admin/includes/post.php:600
 msgid "You are not allowed to create posts or drafts on this site."
 msgstr "Вам не разрешено создавать записи или черновики на этом сайте."
 
-#: wp-admin/includes/post.php:1086
+#: wp-admin/includes/post.php:1126
 msgid "Click to edit this part of the permalink"
 msgstr "Нажмите, чтобы изменить эту часть постоянной ссылки"
 
-#: wp-admin/includes/post.php:1088
+#: wp-admin/includes/post.php:1128
 msgid "Temporary permalink. Click to edit this part."
 msgstr "Временная ссылка. Нажмите, чтобы изменить эту часть."
 
-#: wp-admin/includes/post.php:1092 wp-admin/includes/post.php:1120
+#: wp-admin/includes/post.php:1132 wp-admin/includes/post.php:1160
 msgid "Permalink:"
 msgstr "Постоянная ссылка:"
 
-#: wp-admin/includes/post.php:1094
+#: wp-admin/includes/post.php:1134
 msgid "Change Permalinks"
 msgstr "Изменить постоянные ссылки"
 
-#: wp-admin/includes/post.php:1161
+#: wp-admin/includes/post.php:1201
 msgid "Remove featured image"
 msgstr "Удалить миниатюру"
 
-#: wp-admin/includes/post.php:1283
+#: wp-admin/includes/post.php:1323
 msgid "This content is currently locked."
 msgstr "Это содержимое на текущий момент заблокировано."
 
-#: wp-admin/includes/post.php:1285
+#: wp-admin/includes/post.php:1325
 msgid "If you take over, %s will be blocked from continuing to edit."
 msgstr "Если вы перехватите запись, %s не сможет продолжить редактирование."
 
-#: wp-admin/includes/post.php:1299
+#: wp-admin/includes/post.php:1339
 msgid "Take over"
 msgstr "Перехватить"
 
-#: wp-admin/includes/post.php:1313
+#: wp-admin/includes/post.php:1353
 msgid "Saving revision..."
 msgstr "Сохранение редакции..."
 
-#: wp-admin/includes/post.php:1314
+#: wp-admin/includes/post.php:1354
 msgid "Your latest changes were saved as a revision."
 msgstr "Ваши последние изменения сохранены в виде редакции."
 
-#: wp-admin/includes/post.php:1400
+#: wp-admin/includes/post.php:1440
 msgid "Preview not available. Please save as a draft first."
 msgstr "Просмотр недоступен. Пожалуйста, сохраните черновик."
 
@@ -7770,7 +7770,8 @@ msgstr "Меню слева"
 msgid "Right Sidebar"
 msgstr "Меню справа"
 
-#: wp-admin/includes/theme.php:200 wp-admin/index.php:61
+#: wp-admin/includes/theme.php:200 wp-admin/includes/theme.php:256
+#: wp-admin/index.php:61
 msgid "Layout"
 msgstr "Разметка"
 
@@ -7786,7 +7787,7 @@ msgstr "Гибкий дизайн"
 msgid "Responsive Layout"
 msgstr "Адаптивный дизайн"
 
-#: wp-admin/includes/theme.php:206 wp-admin/includes/theme.php:254
+#: wp-admin/includes/theme.php:206 wp-admin/includes/theme.php:257
 msgid "Features"
 msgstr "Функции"
 
@@ -7858,7 +7859,7 @@ msgstr "Вложенные комментарии"
 msgid "Translation Ready"
 msgstr "Готова к переводу"
 
-#: wp-admin/includes/theme.php:229 wp-admin/includes/theme.php:254
+#: wp-admin/includes/theme.php:229 wp-admin/includes/theme.php:258
 msgid "Subject"
 msgstr "Тема"
 
@@ -11081,7 +11082,7 @@ msgstr "Не удалось отправить форму, обновите ст
 msgid "Oops, you don&#8217;t have access to add new drafts."
 msgstr "Оп-па, у вас нет возможности добавлять черновики."
 
-#: wp-admin/post.php:153
+#: wp-admin/post.php:157
 msgid ""
 "You can&#8217;t edit this item because it is in the Trash. Please restore it "
 "and try again."
@@ -11089,24 +11090,24 @@ msgstr ""
 "Вы не можете редактировать этот элемент, потому что он в корзине. "
 "Пожалуйста, восстановите его и повторите попытку."
 
-#: wp-admin/post.php:240
+#: wp-admin/post.php:244
 msgid "The item you are trying to move to the Trash no longer exists."
 msgstr "Элемент, который вы пытаетесь переместить в корзину, не существует."
 
-#: wp-admin/post.php:250
+#: wp-admin/post.php:254
 msgid "You cannot move this item to the Trash. %s is currently editing."
 msgstr ""
 "Вы не можете переместить этот элемент в корзину. Его сейчас редактирует %s."
 
-#: wp-admin/post.php:264
+#: wp-admin/post.php:268
 msgid "The item you are trying to restore from the Trash no longer exists."
 msgstr "Элемент, который вы пытаетесь восстановить из корзины, не существует."
 
-#: wp-admin/post.php:270
+#: wp-admin/post.php:274
 msgid "You are not allowed to move this item out of the Trash."
 msgstr "Вам не разрешено восстанавливать этот элемент из корзины."
 
-#: wp-admin/post.php:283
+#: wp-admin/post.php:287
 msgid "This item has already been deleted."
 msgstr "Этот элемент уже удалён."
 
@@ -11845,24 +11846,24 @@ msgstr "Тема удалена."
 msgid "ERROR: %s"
 msgstr "ОШИБКА: %s"
 
-#: wp-admin/themes.php:203 wp-admin/themes.php:280
+#: wp-admin/themes.php:206 wp-admin/themes.php:283
 msgid "Theme Details"
 msgstr "Информация о теме"
 
-#: wp-admin/themes.php:207 wp-admin/themes.php:284
+#: wp-admin/themes.php:210 wp-admin/themes.php:287
 msgctxt "theme"
 msgid "Active:"
 msgstr "Активна:"
 
-#: wp-admin/themes.php:227 wp-admin/themes.php:304 wp-admin/themes.php:334
+#: wp-admin/themes.php:230 wp-admin/themes.php:307 wp-admin/themes.php:337
 msgid "Update Available"
 msgstr "Доступно обновление"
 
-#: wp-admin/themes.php:242
+#: wp-admin/themes.php:245
 msgid "Broken Themes"
 msgstr "Повреждённые темы"
 
-#: wp-admin/themes.php:243
+#: wp-admin/themes.php:246
 msgid ""
 "The following themes are installed but incomplete. Themes must have a "
 "stylesheet and a template."
@@ -11870,36 +11871,36 @@ msgstr ""
 "Следующие темы установлены, однако являются неполными. Тема должна иметь "
 "таблицу стилей и шаблон."
 
-#: wp-admin/themes.php:247
+#: wp-admin/themes.php:250
 msgctxt "theme name"
 msgid "Name"
 msgstr "Название"
 
-#: wp-admin/themes.php:312
-msgid "Close overlay"
-msgstr "Закрыть окно"
-
-#: wp-admin/themes.php:313
+#: wp-admin/themes.php:315
 msgid "Show previous theme"
 msgstr "Показать предыдущую тему"
 
-#: wp-admin/themes.php:314
+#: wp-admin/themes.php:316
 msgid "Show next theme"
 msgstr "Показать следующую тему"
 
-#: wp-admin/themes.php:327
+#: wp-admin/themes.php:317
+msgid "Close overlay"
+msgstr "Закрыть окно"
+
+#: wp-admin/themes.php:330
 msgid "Current Theme"
 msgstr "Текущая тема"
 
-#: wp-admin/themes.php:329
+#: wp-admin/themes.php:332
 msgid "Version: %s"
 msgstr "Версия: %s"
 
-#: wp-admin/themes.php:341
+#: wp-admin/themes.php:344
 msgid "This is a child theme of %s."
 msgstr "Это дочерняя тема для %s."
 
-#: wp-admin/themes.php:345
+#: wp-admin/themes.php:348
 msgid "Tags:"
 msgstr "Метки:"
 

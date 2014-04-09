@@ -53,7 +53,7 @@ msgstr ""
 #. Text in echo
 #: Retro copy/loop.php:13 copy/content-single.php:17
 msgid "AUTHOR:"
-msgstr ""
+msgstr "Автор:"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:708
@@ -198,7 +198,7 @@ msgstr ""
 #. Text in echo
 #: Retro copy/loop.php:13 copy/content-single.php:17
 msgid "CATEGORY:"
-msgstr ""
+msgstr "Рубрика:"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:2766
@@ -733,7 +733,7 @@ msgstr "новые &rarr;"
 #: Retro copy/loop.php:15 copy/content-single.php:19
 #: copy/includes/widget/latests.php:149
 msgid "No Comments"
-msgstr ""
+msgstr "Нет комментариев"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:1652
@@ -962,7 +962,7 @@ msgstr ""
 #. Text in function
 #: Retro copy/searchform.php:4
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #. Text in function
 #: Retro copy/functions.php:1
