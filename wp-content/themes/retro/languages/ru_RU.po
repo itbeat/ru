@@ -17,7 +17,7 @@ msgstr ""
 #: Retro copy/loop.php:15 copy/content-single.php:19
 #: copy/includes/widget/latests.php:149
 msgid "% Comments"
-msgstr ""
+msgstr "% Комменитариев"
 
 #. Text in function
 #: Retro copy/haku/helper.php:1
@@ -37,13 +37,13 @@ msgstr "&larr; старые"
 #. Text in function
 #: Retro copy/functions.php:298
 msgid "(Edit)"
-msgstr ""
+msgstr "редактировать"
 
 #. Text in function
 #: Retro copy/loop.php:15 copy/content-single.php:19
 #: copy/includes/widget/latests.php:149
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Комментарий"
 
 #. Text in function
 #: Retro copy/haku/update.php:96
@@ -303,7 +303,7 @@ msgstr ""
 #. Text in function
 #: Retro copy/comments.php:1
 msgid "Comments"
-msgstr ""
+msgstr "Комментарии"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:1969
@@ -605,7 +605,7 @@ msgstr ""
 #. Text in function
 #: Retro copy/comments.php:51
 msgid "Leave a reply"
-msgstr ""
+msgstr "Оставить комментарий"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:129
@@ -633,6 +633,8 @@ msgid ""
 "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
 "this account\">Log out?</a>"
 msgstr ""
+"Вы зашли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Выйти?</a>"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:2899
@@ -875,7 +877,7 @@ msgstr ""
 #. Text in function
 #: Retro copy/comments.php:51
 msgid "Post Comment!"
-msgstr ""
+msgstr "Отправить комментарий!"
 
 #. Text in function
 #: Retro copy/archive.php:32
@@ -912,7 +914,7 @@ msgstr ""
 #. Text in function
 #: Retro copy/functions.php:297
 msgid "Reply"
-msgstr ""
+msgstr "Ответить"
 
 #. Text in echo
 #: Retro copy/haku/panel/panel.php:24
@@ -927,7 +929,7 @@ msgstr ""
 #. Text in echo
 #: Retro copy/haku/panel/options.php:2827
 msgid "Responses"
-msgstr ""
+msgstr "Ответов"
 
 #. Text in echo
 #: Retro copy/haku/panel/options.php:308
@@ -1273,7 +1275,7 @@ msgstr ""
 #. Text in function
 #: Retro copy/comments.php:51
 msgid "Type your comment here.."
-msgstr ""
+msgstr "Напишите комментарий.."
 
 #. Text in function
 #: Retro copy/section-contact.php:79
@@ -1450,4 +1452,4 @@ msgstr ""
 #. Text in echo
 #: Retro copy/functions.php:297
 msgid "wrote on"
-msgstr ""
+msgstr "написал"
