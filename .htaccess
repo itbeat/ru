@@ -1,3 +1,19 @@
+Redirect 301 /about.html http://www.itbeat.ru/
+Redirect 301 /contacts.html http://www.itbeat.ru/
+Redirect 301 /infrastruct.html http://www.itbeat.ru/
+Redirect 301 /infrastruct/commissioning.html http://www.itbeat.ru/
+Redirect 301 /infrastruct/delivery.html http://www.itbeat.ru/
+Redirect 301 /infrastruct/free-software.html http://www.itbeat.ru/
+Redirect 301 /infrastruct/licenses.html http://www.itbeat.ru/
+Redirect 301 /infrastruct/moving.html http://www.itbeat.ru/
+Redirect 301 /infrastruct/solutions.html http://www.itbeat.ru/
+Redirect 301 /it-outsource.html http://www.itbeat.ru/
+Redirect 301 /it-outsource/communications.html http://www.itbeat.ru/
+Redirect 301 /it-outsource/networks.html http://www.itbeat.ru/
+Redirect 301 /it-outsource/organizations.html http://www.itbeat.ru/
+Redirect 301 /it-outsource/pc.html http://www.itbeat.ru/
+Redirect 301 /it-outsource/servers.html http://www.itbeat.ru/
+Redirect 301 /services.html http://www.itbeat.ru/
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
