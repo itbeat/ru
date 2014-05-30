@@ -24,7 +24,7 @@ $col_class = 'col_' . $col_total;
 $col_number = 0;
 ?>
 
-<div id="about_section" class="section" data-section="<?php echo sanitize_title( get_theme_option('about_label') ); ?>">
+<div id="about_section" class="wrapper section" data-section="<?php echo sanitize_title( get_theme_option('about_label') ); ?>">
 		
 	<div id="about_section_botm_bg">
 	

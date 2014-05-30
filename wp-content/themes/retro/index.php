@@ -2,7 +2,7 @@
 
 <!-- BEGIN HOME SECTION -->
 
-<?php get_template_part('section', 'home'); ?>
+<?php //get_template_part('section', 'home'); ?>
 
 <!-- END HOME SECTION -->
 
@@ -20,7 +20,13 @@
 
 <!-- BEGIN BLOG SECTION -->
 
-<?php get_template_part('section', 'blog'); ?>
+<?php get_template_part('section', 'price'); ?>
+
+<!-- END BLOG SECTION -->
+
+<!-- BEGIN BLOG SECTION -->
+
+<?php //get_template_part('section', 'blog'); ?>
 
 <!-- END BLOG SECTION -->
 
