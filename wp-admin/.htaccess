@@ -1,2 +1,3 @@
 Order allow,deny
 Allow from 95.31.22.153
+Allow from 46.183.182.126
